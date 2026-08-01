@@ -1,0 +1,5146 @@
+[
+  {
+    "id": 9443,
+    "text": "برخیز و بیا بتا برای دل ما\nحل کن به جمال خویشتن مشکل ما",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9444,
+    "text": "یک کوزه شراب تا بهم نوش کنیم\nزان پیش که کوزه ها کنند از گل ما",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9445,
+    "text": "چون عهده نمی شود کسی فردا را\nحالی خوش دار این دل پر سودا را",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9446,
+    "text": "می نوش به ماهتاب ای ماه که ماه\nبسیار بتابد و نیابد ما را",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9447,
+    "text": "قرآن که مهین کلام خوانند آن را\nگه گاه نه بر دوام خوانند آن را",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9448,
+    "text": "بر گرد پیاله آیتی هست مقیم\nکاندر همه جا مدام خوانند آن را",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9449,
+    "text": "گر می نخوری طعنه مزن مستانرا\nبنیاد مکن تو حیله و دستانرا",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9450,
+    "text": "تو غره بدان مشو که می مینخوری\nصد لقمه خوری که می غلام ست آنرا",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9451,
+    "text": "هر چند که رنگ و بوی زیباست مرا\nچون لاله رخ و چو سرو بالاست مرا",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9452,
+    "text": "معلوم نشد که در طربخانه خاک\nنقاش ازل بهر چه آراست مرا",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9453,
+    "text": "ماییم و می و مطرب و این کنج خراب\nجان و دل و جام و جامه پر درد شراب",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9454,
+    "text": "فارغ ز امید رحمت و بیم عذاب\nآزاد ز خاک و باد و از آتش و آب",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9455,
+    "text": "آن قصر که جمشید در او جام گرفت\nآهو بچه کرد و روبه آرام گرفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9456,
+    "text": "بهرام که گور می گرفتی همه عمر\nدیدی که چگونه گور بهرام گرفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9457,
+    "text": "ابر آمد و باز بر سر سبزه گریست\nبی بادهٔ گلرنگ نمی باید زیست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9458,
+    "text": "این سبزه که امروز تماشاگه ماست\nتا سبزهٔ خاک ما تماشاگه کیست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9459,
+    "text": "اکنون که گل سعادتت پربار است\nدست تو ز جام می چرا بیکار است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9460,
+    "text": "می خور که زمانه دشمنی غدار است\nدریافتن روز چنین دشوار است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9461,
+    "text": "امروز ترا دسترس فردا نیست\nو اندیشه فردات به جز سودا نیست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9462,
+    "text": "ضایع مکن این دم ار دلت شیدا نیست\nکاین باقی عمر را بها پیدا نیست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9463,
+    "text": "ای آمده از عالم روحانی تفت\nحیران شده در پنج و چهار و شش و هفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9464,
+    "text": "می نوش ندانی ز کجا آمده ای\nخوش باش ندانی به کجا خواهی رفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9465,
+    "text": "ای چرخ فلک خرابی از کینه تست\nبیدادگری شیوه دیرینه تست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9466,
+    "text": "ای خاک اگر سینه تو بشکافند\nبس گوهر قیمتی که در سینه تست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9467,
+    "text": "ای دل چو زمانه می کند غمناکت\nناگه برود ز تن روان پاکت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9468,
+    "text": "بر سبزه نشین و خوش بزی روزی چند\nزان پیش که سبزه بردمد از خاکت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9469,
+    "text": "این بحر وجود آمده بیرون ز نهفت\nکس نیست که این گوهر تحقیق بسفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9470,
+    "text": "هر کس سخنی از سر سودا گفتند\nزآن روی که هست کس نمی داند گفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9471,
+    "text": "این کوزه چو من عاشق زاری بوده است\nدر بند سر زلف نگاری بوده ست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9472,
+    "text": "این دسته که بر گردن او می بینی\nدستی ست که برگردن یاری بوده ست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9473,
+    "text": "این کوزه که آبخوارهٔ مزدوریست\nاز دیدهٔ شاهیست و دل دستوریست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9474,
+    "text": "هر کاسهٔ می که بر کف مخموریست\nاز عارض مستی و لب مستوریست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9475,
+    "text": "این کهنه رباط را که عالم نام است\nو آرامگه ابلق صبح و شام است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9476,
+    "text": "بزمی ست که وامانده صد جمشید است\nقصریست که تکیه گاه صد بهرام است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9477,
+    "text": "این یک دو سه روز نوبت عمر گذشت\nچون آب به جویبار و چون باد به دشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9478,
+    "text": "هرگز غم دو روز مرا یاد نگشت\nروزی که نیامده ست و روزی که گذشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9479,
+    "text": "بر چهره گل نسیم نوروز خوش است\nدر صحن چمن روی دل افروز خوش است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9480,
+    "text": "از دی که گذشت هر چه گویی خوش نیست\nخوش باش و ز دی مگو که امروز خوش است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9481,
+    "text": "پیش از من و تو لیل و نهاری بوده است\nگردنده فلک نیز بکاری بوده است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9482,
+    "text": "هرجا که قدم نهی تو بر روی زمین\nآن مردمک چشم نگاری بوده است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9483,
+    "text": "تا چند زنم بروی دریاها خشت\nبیزار شدم ز بت پرستان کنشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9484,
+    "text": "خیام که گفت دوزخی خواهد بود\nکه رفت بدوزخ و که آمد ز بهشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9485,
+    "text": "ترکیب پیاله ای که درهم پیوست\nبشکستن آن روا نمیدارد مست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9486,
+    "text": "چندین سر و پای نازنین از سر و دست\nاز مهر که پیوست و به کین که شکست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9487,
+    "text": "ترکیب طبایع چو به کام تو دمی است\nرو شاد بزی اگرچه برتو ستمی است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9488,
+    "text": "با اهل خرد باش که اصل تن تو\nگردی و نسیمی و غباری و دمی است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9489,
+    "text": "چون ابر به نوروز رخ لاله بشست\nبرخیز و بجام باده کن عزم درست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9490,
+    "text": "کاین سبزه که امروز تماشاگه توست\nفردا همه از خاک تو برخواهد رست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9491,
+    "text": "چون بلبل مست راه در بستان یافت\nروی گل و جام باده را خندان یافت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9492,
+    "text": "آمد به زبان حال در گوشم گفت\nدریاب که عمر رفته را نتوان یافت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9493,
+    "text": "چون چرخ بکام یک خردمند نگشت\nخواهی تو فلک هفت شمر خواهی هشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9494,
+    "text": "چون باید مرد و آرزوها همه هشت\nچه مور خورد بگور و چه گرگ بدشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9495,
+    "text": "چون لاله به نوروز قدح گیر بدست\nبا لاله رخی اگر تو را فرصت هست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9496,
+    "text": "می نوش به خرمی که این چرخ کهن\nناگاه تو را چو خاک گرداند پست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9497,
+    "text": "چون نیست حقیقت و یقین اندر دست\nنتوان به امید شک همه عمر نشست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9498,
+    "text": "هان تا ننهیم جام می از کف دست\nدر بی خبری مرد چه هشیار و چه مست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9499,
+    "text": "چون نیست ز هر چه هست جز باد بدست\nچون هست بهرچه هست نقصان و شکست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9500,
+    "text": "انگار که هرچه هست در عالم نیست\nپندار که هرچه نیست در عالم هست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9501,
+    "text": "خاکی که به زیر پای هر نادانی است\nکفّ صنمیّ و چهرهٔ جانانی است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9502,
+    "text": "هر خشت که بر کنگرهٔ ایوانی است\nانگشت وزیر یا سر سلطانی است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9503,
+    "text": "دارنده چو ترکیب طبایع آراست\nاز بهر چه او فکندش اندر کم و کاست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9504,
+    "text": "گر نیک آمد شکستن از بهر چه بود\nورنیک نیامد این صور عیب کراست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9505,
+    "text": "در پرده اسرار کسی را ره نیست\nزین تعبیه جان هیچکس آگه نیست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9506,
+    "text": "جز در دل خاک هیچ منزلگه نیست\nمی خور که چنین فسانه ها کوته نیست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9507,
+    "text": "در خواب بدم مرا خردمندی گفت\nکاز خواب کسی را گل شادی نشکفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9508,
+    "text": "کاری چه کنی که با اجل باشد جفت؟\nمی خور که به زیر خاک می باید خفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9509,
+    "text": "در دایره ای که آمد و رفتن ماست\nاو را نه بدایت نه نهایت پیداست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9510,
+    "text": "کس می نزند دمی در این معنی راست\nکاین آمدن از کجا و رفتن بکجاست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9511,
+    "text": "در فصل بهار اگر بتی حور سرشت\nیک ساغر می دهد مرا بر لب کشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9512,
+    "text": "هر چند به نزد عامه این باشد زشت\nسگ به ز من است اگر برم نام بهشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9513,
+    "text": "دریاب که از روح جدا خواهی رفت\nدر پرده اسرار فنا خواهی رفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9514,
+    "text": "می نوش ندانی از کجا آمده ای\nخوش باش ندانی به کجا خواهی رفت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9515,
+    "text": "ساقی گل و سبزه بس طربناک شده ست\nدریاب که هفته دگر خاک شده ست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9516,
+    "text": "می نوش و گلی بچین که تا درنگری\nگل خاک شده ست و سبزه خاشاک شده ست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9517,
+    "text": "عمریست مرا تیره و کاریست نه راست\nمحنت همه افزوده و راحت کم و کاست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9518,
+    "text": "شکر ایزد را که آنچه اسباب بلاست\nما را ز کس دگر نمیباید خواست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9519,
+    "text": "فصل گل و طرف جویبار و لب کشت\nبا یک دو سه اهل و لعبتی حور سرشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9520,
+    "text": "پیش آر قدح که باده نوشان صبوح\nآسوده ز مسجدند و فارغ ز کنشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9521,
+    "text": "گر شاخ بقا ز بیخ بختت رست است\nور بر تن تو عمر لباسی چست است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9522,
+    "text": "در خیمه تن که سایبانی ست ترا\nهان تکیه مکن که چارمیخش سست است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9523,
+    "text": "گویند کسان بهشت با حور خوش است\nمن میگویم که آب انگور خوش است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9524,
+    "text": "این نقد بگیر و دست از آن نسیه بدار\nکاواز دهل شنیدن از دور خوش است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9525,
+    "text": "گویند مرا که دوزخی باشد مست\nقولیست خلاف دل در آن نتوان بست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9526,
+    "text": "گر عاشق و میخواره بدوزخ باشند\nفردا بینی بهشت همچون کف دست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9527,
+    "text": "من هیچ ندانم که مرا آنکه سرشت\nاز اهل بهشت کرد یا دوزخ زشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9528,
+    "text": "جامی و بتی و بربطی بر لب کشت\nاین هر سه مرا نقد و ترا نسیه بهشت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9529,
+    "text": "مهتاب به نور دامن شب بشکافت\nمی نوش دمی بهتر از این نتوان یافت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9530,
+    "text": "خوش باش و میندیش که مهتاب بسی\nاندر سر خاک یک به یک خواهد تافت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9531,
+    "text": "می خوردن و شاد بودن آیین منست\nفارغ بودن ز کفر و دین دین منست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9532,
+    "text": "گفتم به عروس دهر کابین تو چیست\nگفتا دل خرم تو کابین منست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9533,
+    "text": "می لعل مذابست و صراحی کان است\nجسم است پیاله و شرابش جان است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9534,
+    "text": "آن جام بلورین که ز می خندان است\nاشکی است که خون دل درو پنهان است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9535,
+    "text": "می نوش که عمر جاودانی اینست\nخود حاصلت از دور جوانی اینست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9536,
+    "text": "هنگام گل و باده و یاران سرمست\nخوش باش دمی که زندگانی اینست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9537,
+    "text": "نیکی و بدی که در نهاد بشر است\nشادی و غمی که در قضا و قدر است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9538,
+    "text": "با چرخ مکن حواله کاندر ره عقل\nچرخ از تو هزار بار بیچاره تر است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9539,
+    "text": "در هر دشتی که لاله زاری بوده ست\nاز سرخی خون شهریاری بوده ست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9540,
+    "text": "هر شاخ بنفشه کز زمین میروید\nخالی است که بر رخ نگاری بوده ست",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9541,
+    "text": "هر ذره که در خاک زمینی بوده است\nپیش از من و تو تاج و نگینی بوده است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9542,
+    "text": "گرد از رخ نازنین به آزرم فشان\nکانهم رخ خوب نازنینی بوده است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9543,
+    "text": "هر سبزه که برکنار جویی رسته است\nگویی ز لب فرشته خویی رسته است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9544,
+    "text": "پا بر سر سبزه تا به خواری ننهی\nکان سبزه ز خاک لاله رویی رسته است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9545,
+    "text": "یک جرعه می ز ملک کاووس به است\nاز تخت قباد و ملکت طوس به است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9546,
+    "text": "هر ناله که رندی به سحرگاه زند\nاز طاعت زاهدان سالوس به است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9547,
+    "text": "چون عمر به سر رسد چه شیرین و چه تلخ\nپیمانه چو پر شود چه بغداد و چه بلخ",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9548,
+    "text": "می نوش که بعد از من و تو ماه بسی\nاز سَلخ به غٌرّه آید از غره به سلخ",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9549,
+    "text": "آنانکه محیط فضل و آداب شدند\nدر جمع کمال شمع اصحاب شدند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9550,
+    "text": "ره زین شب تاریک نبردند برون\nگفتند فسانه ای و در خواب شدند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9551,
+    "text": "آن را که به صحرای علل تاخته اند\nبی او همه کارها بپرداخته اند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9552,
+    "text": "امروز بهانه ای در انداخته اند\nفردا همه آن بود که در ساخته اند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9553,
+    "text": "آنها که کهن شدند و اینها که نوند\nهر کس بمراد خویش یک تک بدوند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9554,
+    "text": "این کهنه جهان بکس نماند باقی\nرفتند و رویم دیگر آیند و روند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9555,
+    "text": "آنکس که زمین و چرخ و افلاک نهاد\nبس داغ که او بر دل غمناک نهاد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9556,
+    "text": "بسیار لب چو لعل و زلفین چو مشک\nدر طبل زمین و حقه خاک نهاد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9557,
+    "text": "آرند یکی و دیگری بربایند\nبر هیچ کسی راز همی نگشایند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9558,
+    "text": "ما را ز قضا جز این قدر ننمایند\nپیمانه عمر ما است می پیمایند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9559,
+    "text": "اجرام که ساکنان این ایوانند\nاسباب تردد خردمندانند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9560,
+    "text": "هان تاسر رشته خرد گم نکنی\nکانان که مدبرند سرگردانند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9561,
+    "text": "از آمدنم نبود گردون را سود\nوز رفتن من جلال و جاهش نفزود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9562,
+    "text": "وز هیچ کسی نیز دو گوشم نشنود\nکاین آمدن و رفتنم از بهر چه بود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9563,
+    "text": "از رنج کشیدن آدمی حر گردد\nقطره چو کشد حبس صدف در گردد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9564,
+    "text": "گر مال نماند سر بماناد بجای\nپیمانه چو شد تهی دگر پر گردد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9565,
+    "text": "افسوس که سرمایه ز کف بیرون شد\nوز دست اجل بسی جگرها خون شد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9566,
+    "text": "کس نامد از آن جهان که پرسم از وی\nکاحوال مسافران دنیا چون شد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9567,
+    "text": "افسوس که نامه جوانی طی شد\nو آن تازه بهار زندگانی دی شد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9568,
+    "text": "آن مرغ طرب که نام او بود شباب\nافسوس ندانم که کی آمد کی شد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9569,
+    "text": "ای بس که نباشیم و جهان خواهد بود\nنی نام زما و نی نشان خواهد بود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9570,
+    "text": "زین پیش نبودیم و نبد هیچ خلل\nزین پس چو نباشیم همان خواهد بود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9571,
+    "text": "این عقل که در ره سعادت پوید\nروزی صد بار خود ترا می گوید",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9572,
+    "text": "دریاب تو این یکدم وقتت که نئی\nآن تره که بدروند و دیگر روید",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9573,
+    "text": "این قافله عمر عجب میگذرد\nدریاب دمی که با طرب میگذرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9574,
+    "text": "ساقی غم فردای حریفان چه خوری\nپیش آر پیاله را که شب میگذرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9575,
+    "text": "بر پشت من از زمانه تو میاید\nوز من همه کار نانکو میاید",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9576,
+    "text": "جان عزم رحیل کرد و گفتم بمرو\nگفتا چکنم خانه فرو میاید",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9577,
+    "text": "بر چرخ فلک هیچ کسی چیر نشد\nوز خوردن آدمی زمین سیر نشد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9578,
+    "text": "مغرور بدانی که نخورده ست ترا\nتعجیل مکن هم بخورد دیر نشد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9579,
+    "text": "بر چشم تو عالم ارچه می آرایند\nمگرای بدان که عاقلان نگرایند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9580,
+    "text": "بسیار چو تو روند و بسیار آیند\nبربای نصیب خویش کت بربایند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9581,
+    "text": "بر من قلم قضا چو بی من رانند\nپس نیک و بدش ز من چرا میدانند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9582,
+    "text": "دی بی من و امروز چو دی بی من و تو\nفردا به چه حجتم به داور خوانند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9583,
+    "text": "تا چند اسیر رنگ و بو خواهی شد\nچند از پی هر زشت و نکو خواهی شد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9584,
+    "text": "گر چشمه زمزمی و گر آب حیات\nآخر به دل خاک فرو خواهی شد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9585,
+    "text": "تا راه قلندری نپویی نشود\nرخساره بخون دل نشویی نشود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9586,
+    "text": "سودا چه پزی تا که چو دلسوختگان\nآزاد به ترک خود نگویی نشود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9587,
+    "text": "تا زهره و مه در آسمان گشت پدید\nبهتر ز می ناب کسی هیچ ندید",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9588,
+    "text": "من در عجبم ز میفروشان کایشان\nبه زانکه فروشند چه خواهند خرید",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9589,
+    "text": "چون روزی و عمر بیش و کم نتوان کرد\nدل را به کم و بیش دژم نتوان کرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9590,
+    "text": "کار من و تو چنانکه رای من و تست\nاز موم بدست خویش هم نتوان کرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9591,
+    "text": "حیی که بقدرت سر و رو می سازد\nهمواره هم او کار عدو می سازد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9592,
+    "text": "گویند قرابه گر مسلمان نبود\nاو را تو چه گویی که کدو می سازد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9593,
+    "text": "در دهر چو آواز گل تازه دهند\nفرمای بتا که می به اندازه دهند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9594,
+    "text": "از حور و قصور و ز بهشت و دوزخ\nفارغ بنشین که آن هر آوازه دهند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9595,
+    "text": "در دهر هر آن که نیم نانی دارد\nاز بهر نشست آشیانی دارد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9596,
+    "text": "نه خادم کس بود نه مخدوم کسی\nگو شاد بزی که خوش جهانی دارد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9597,
+    "text": "دهقان قضا بسی چو ما کشت و درود\nغم خوردن بیهوده نمیدارد سود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9598,
+    "text": "پر کن قدح می به کفم درنه زود\nتا باز خورم که بودنیها همه بود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9599,
+    "text": "روزی ست خوش و هوا نه گرم است و نه سرد\nابر از رخ گلزار همی شوید گرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9600,
+    "text": "بلبل به زبان حال خود با گل زرد\nفریاد همی کند که می باید خورد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9601,
+    "text": "زان پیش که بر سرت شبیخون آرند\nفرمای که تا باده گلگون آرند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9602,
+    "text": "تو زر نئی ای غافل نادان که ترا\nدر خاک نهند و باز بیرون آرند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9603,
+    "text": "عمرت تا کی به خودپرستی گذرد\nیا در پی نیستی و هستی گذرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9604,
+    "text": "می نوش که عمریکه اجل در پی اوست\nآن به که به خواب یا به مستی گذرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9605,
+    "text": "کس مشکل اسرار اجل را نگشاد\nکس یک قدم از دایره بیرون ننهاد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9606,
+    "text": "من می نگرم ز مبتدی تا استاد\nعجز است به دست هر که از مادر زاد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9607,
+    "text": "کم کن طمع از جهان و می زی خرسند\nاز نیک و بد زمانه بگسل پیوند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9608,
+    "text": "می در کف و زلف دلبری گیر که زود\nهم بگذرد و نماند این روزی چند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9609,
+    "text": "گرچه غم و رنج من درازی دارد\nعیش و طرب تو سرفرازی دارد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9610,
+    "text": "بر هر دو مکن تکیه که دوران فلک\nدر پرده هزار گونه بازی دارد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9611,
+    "text": "گردون ز زمین هیچ گلی برنارد\nکش نشکند و هم به زمین نسپارد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9612,
+    "text": "گر ابر چو آب خاک را بردارد\nتا حشر همه خون عزیزان بارد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9613,
+    "text": "گر یک نفست ز زندگانی گذرد\nمگذار که جز به شادمانی گذرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9614,
+    "text": "هشدار که سرمایه سودای جهان\nعمرست چنان کش گذرانی گذرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9615,
+    "text": "گویند بهشت و حورعین خواهد بود\nآنجا می و شیر و انگبین خواهد بود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9616,
+    "text": "گر ما می و معشوق گزیدیم چه باک\nچون عاقبت کار چنین خواهد بود",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9617,
+    "text": "گویند بهشت و حور و کوثر باشد\nجوی می و شیر و شهد و شکر باشد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9618,
+    "text": "پر کن قدح باده و بر دستم نه\nنقدی ز هزار نسیه خوشتر باشد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9619,
+    "text": "گویند هر آن کسان که با پرهیزند\nزانسان که بمیرند چنان برخیزند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9620,
+    "text": "ما با می و معشوقه از آنیم مدام\nباشد که به حشرمان چنان انگیزند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9621,
+    "text": "می خور که ز دل کثرت و قلت ببرد\nو اندیشه هفتاد و دو ملت ببرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9622,
+    "text": "پرهیز مکن ز کیمیایی که از او\nیک جرعه خوری هزار علت ببرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9623,
+    "text": "هر راز که اندر دل دانا باشد\nباید که نهفته تر ز عنقا باشد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9624,
+    "text": "کاندر صدف از نهفتگی گردد در\nآن قطره که راز دل دریا باشد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9625,
+    "text": "هر صبح که روی لاله شبنم گیرد\nبالای بنفشه در چمن خم گیرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9626,
+    "text": "انصاف مرا ز غنچه خوش می آید\nکو دامن خویشتن فراهم گیرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9627,
+    "text": "هرگز دل من ز علم محروم نشد\nکم ماند ز اسرار که معلوم نشد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9628,
+    "text": "هفتاد و دو سال فکر کردم شب و روز\nمعلومم شد که هیچ معلوم نشد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9629,
+    "text": "هم دانه امید به خرمن ماند\nهم باغ و سرای بی تو و من ماند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9630,
+    "text": "سیم و زر خویش از درمی تا بجوی\nبا دوست بخور گر نه بدشمن ماند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9631,
+    "text": "یاران موافق همه از دست شدند\nدر پای اجل یکان یکان پست شدند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9632,
+    "text": "خوردیم ز یک شراب در مجلس عمر\nدوری دو سه پیشتر ز ما مست شدند",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9633,
+    "text": "یک جام شراب صد دل و دین ارزد\nیک جرعه می مملکت چین ارزد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9634,
+    "text": "جز باده لعل نیست در روی زمین\nتلخی که هزار جان شیرین ارزد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9635,
+    "text": "یک قطره آب بود با دریا شد\nیک ذره خاک با زمین یکتا شد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9636,
+    "text": "آمد شدن تو اندرین عالم چیست\nآمد مگسی پدید و ناپیدا شد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9637,
+    "text": "یک نان به دو روز اگر بود حاصل مرد\nاز کوزه شکسته ای دمی آبی سرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9638,
+    "text": "مامور کم از خودی چرا باید بود\nیا خدمت چون خودی چرا باید کرد",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9639,
+    "text": "آن لعل در آبگینه ساده بیار\nو آن محرم و مونس هر آزاده بیار",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9640,
+    "text": "چون میدانی که مدت عالم خاک\nباد است که زود بگذرد باده بیار",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9641,
+    "text": "از بودنی ایدوست چه داری تیمار\nوزفکرت بیهوده دل و جان افکار",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9642,
+    "text": "خرم بزی و جهان بشادی گذران\nتدبیر نه با تو کرده اند اول کار",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9643,
+    "text": "افلاک که جز غم نفزایند دگر\nننهند بجا تا نربایند دگر",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9644,
+    "text": "ناآمدگان اگر بدانند که ما\nاز دهر چه میکشیم نایند دگر",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9645,
+    "text": "ای دل غم این جهان فرسوده مخور\nبیهوده نئی غمان بیهوده مخور",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9646,
+    "text": "چون بوده گذشت و نیست نابوده پدید\nخوش باش غم بوده و نابوده مخور",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9647,
+    "text": "ایدل همه اسباب جهان خواسته گیر\nباغ طربت به سبزه آراسته گیر",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9648,
+    "text": "و آنگاه بر آن سبزه شبی چون شبنم\nبنشسته و بامداد برخاسته گیر",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9649,
+    "text": "این اهل قبور خاک گشتند و غبار\nهر ذره ز هر ذره گرفتند کنار",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9650,
+    "text": "آه این چه شراب است که تا روز شمار\nبیخود شده و بی خبرند از همه کار",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9651,
+    "text": "خشت سر خم ز ملکت جم خوشتر\nبوی قدح از غذای مریم خوشتر",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9652,
+    "text": "آه سحری ز سینه خماری\nاز ناله بوسعید و ادهم خوشتر",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9653,
+    "text": "در دایره سپهر ناپیدا غور\nجامی ست که جمله را چشانند بدور",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9654,
+    "text": "نوبت چو به دور تو رسد آه مکن\nمی نوش به خوشدلی که دور است نه جور",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9655,
+    "text": "دی کوزه گری بدیدم اندر بازار\nبر پاره گلی لگد همی زد بسیار",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9656,
+    "text": "و آن گل بزبان حال با او می گفت\nمن همچو تو بوده ام مرا نیکودار",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9657,
+    "text": "ز آن می که حیات جاودانیست بخور\nسرمایه لذت جوانی است بخور",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9658,
+    "text": "سوزنده چو آتش است لیکن غم را\nسازنده چو آب زندگانی است بخور",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9659,
+    "text": "گر باده خوری تو با خردمندان خور\nیا با صنمی لاله رخی خندان خور",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9660,
+    "text": "بسیار مخور و رد مکن فاش مساز\nاندک خور و گه گاه خور و پنهان خور",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9661,
+    "text": "وقت سحر است خیز ای طرفه پسر\nپر بادهٔ لعل کن بلورین ساغر",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9662,
+    "text": "کاین یکدم عاریت در این کنج فنا\nبسیار بجویی و نیابی دیگر",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9663,
+    "text": "از جمله رفتگان این راه دراز\nباز آمده کیست تا بما گوید باز",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9664,
+    "text": "پس بر سر این دو راههٔ آز و نیاز\nتا هیچ نمانی که نمی آیی باز",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9665,
+    "text": "ای پیر خردمند پگه تر برخیز\nو آن کودک خاکبیز را بنگر تیز",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9666,
+    "text": "پندش ده گو که نرم نرمک می بیز\nمغز سر کیقباد و چشم پرویز",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9667,
+    "text": "وقت سحر است خیز ای مایه ناز\nنرمک نرمک باده خور و چنگ نواز",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9668,
+    "text": "کانها که بجایند نپایند بسی\nو آنها که شدند کس نمیاید باز",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9669,
+    "text": "مرغی دیدم نشسته بر باره طوس\nدر پیش نهاده کله کیکاووس",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9670,
+    "text": "با کله همی گفت که افسوس افسوس\nکو بانگ جرسها و کجا ناله کوس",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9671,
+    "text": "جامی است که عقل آفرین میزندش\nصد بوسه ز مهر بر جبین میزندش",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9672,
+    "text": "این کوزه گر دهر چنین جام لطیف\nمی سازد و باز بر زمین میزندش",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9673,
+    "text": "خیام اگر ز باده مستی خوش باش\nبا ماهرخی اگر نشستی خوش باش",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9674,
+    "text": "چون عاقبت کار جهان نیستی است\nانگار که نیستی چو هستی خوش باش",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9675,
+    "text": "در کارگه کوزه گری رفتم دوش\nدیدم دو هزار کوزه گویا و خموش",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9676,
+    "text": "ناگاه یکی کوزه برآورد خروش\nکو کوزه گر و کوزه خر و کوزه فروش",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9677,
+    "text": "ایام زمانه از کسی دارد ننگ\nکو در غم ایام نشیند دلتنگ",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9678,
+    "text": "می خور تو در آبگینه با ناله چنگ\nزان پیش که آبگینه آید بر سنگ",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9679,
+    "text": "از جرم گل سیاه تا اوج زحل\nکردم همه مشکلات کلی را حل",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9680,
+    "text": "بگشادم بندهای مشکل به حیل\nهر بند گشاده شد به جز بند اجل",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9681,
+    "text": "با سرو قدی تازه تر از خرمن گل\nاز دست منه جام می و دامن گل",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9682,
+    "text": "زان پیش که ناگه شود از باد اجل\nپیراهن عمر ما چو پیراهن گل",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9683,
+    "text": "ای دوست بیا تا غم فردا نخوریم\nوین یکدم عمر را غنیمت شمریم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9684,
+    "text": "فردا که ازین دیر فنا درگذریم\nبا هفت هزار سالگان سر بسریم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9685,
+    "text": "این چرخ فلک که ما در او حیرانیم\nفانوس خیال از او مثالی دانیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9686,
+    "text": "خورشید چراغ دان و عالم فانوس\nما چون صوریم کاندر او حیرانیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9687,
+    "text": "برخیز ز خواب تا شرابی بخوریم\nزان پیش که از زمانه تابی بخوریم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9688,
+    "text": "کاین چرخ ستیزه روی ناگه روزی\nچندان ندهد زمان که آبی بخوریم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9689,
+    "text": "برخیزم و عزم باده ناب کنم\nرنگ رخ خود به رنگ عناب کنم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9690,
+    "text": "این عقل فضول پیشه را مشتی می\nبر روی زنم چنانکه در خواب کنم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9691,
+    "text": "بر مفرش خاک خفتگان می بینم\nدر زیرزمین نهفتگان می بینم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9692,
+    "text": "چندانکه به صحرای عدم مینگرم\nناآمدگان و رفتگان می بینم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9693,
+    "text": "تا چند اسیر عقل هر روزه شویم\nدر دهر چه صد ساله چه یکروزه شویم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9694,
+    "text": "در ده تو بکاسه می از آن پیش که ما\nدر کارگه کوزه گران کوزه شویم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9695,
+    "text": "چون نیست مقام ما در این دهر مقیم\nپس بی می و معشوق خطائیست عظیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9696,
+    "text": "تا کی ز قدیم و محدث امیدم و بیم\nچون من رفتم جهان چه محدث چه قدیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9697,
+    "text": "خورشید به گل نهفت می نتوانم\nو اسراز زمانه گفت می نتوانم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9698,
+    "text": "از بحر تفکرم برآورد خرد\nدری که ز بیم سفت می نتوانم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9699,
+    "text": "دشمن به غلط گفت که من فلسفیم\nایزد داند که آنچه او گفت نیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9700,
+    "text": "لیکن چو در این غم آشیان آمده ام\nآخر کم از آنکه من بدانم که کیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9701,
+    "text": "مائیم که اصل شادی و کان غمیم\nسرمایهٔ دادیم و نهاد ستمیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9702,
+    "text": "پستیم و بلندیم و کمالیم و کمیم\nآئینهٔ زنگ خورده و جام جمیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9703,
+    "text": "من می نه ز بهر تنگدستی نخورم\nیا از غم رسوایی و مستی نخورم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9704,
+    "text": "من می ز برای خوشدلی میخوردم\nاکنون که تو بر دلم نشستی نخورم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9705,
+    "text": "من بی می ناب زیستن نتوانم\nبی باده کشید بارتن نتوانم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9706,
+    "text": "من بنده آن دمم که ساقی گوید\nیک جام دگر بگیر و من نتوانم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9707,
+    "text": "هر یک چندی یکی برآید که منم\nبا نعمت و با سیم و زر آید که منم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9708,
+    "text": "چون کارک او نظام گیرد روزی\nناگه اجل از کمین برآید که منم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9709,
+    "text": "یک چند به کودکی باستاد شدیم\nیک چند به استادی خود شاد شدیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9710,
+    "text": "پایان سخن شنو که ما را چه رسید\nاز خاک در آمدیم و بر باد شدیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9711,
+    "text": "یک روز ز بند عالم آزاد نیم\nیک دمزدن از وجود خود شاد نیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9712,
+    "text": "شاگردی روزگار کردم بسیار\nدر کار جهان هنوز استاد نیم",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9713,
+    "text": "از دی که گذشت هیچ ازو یاد مکن\nفردا که نیامده ست فریاد مکن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9714,
+    "text": "برنامده و گذشته بنیاد مکن\nحالی خوش باش و عمر بر باد مکن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9715,
+    "text": "ای دیده اگر کور نئی گور ببین\nوین عالم پر فتنه و پر شور ببین",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9716,
+    "text": "شاهان و سران و سروران زیر گلند\nروهای چو مه در دهن مور ببین",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9717,
+    "text": "برخیز و مخور غم جهان گذران\nبنشین و دمی به شادمانی گذران",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9718,
+    "text": "در طبع جهان اگر وفایی بودی\nنوبت بتو خود نیامدی از دگران",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9719,
+    "text": "چون حاصل آدمی در این شورستان\nجز خوردن غصه نیست تا کندن جان",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9720,
+    "text": "خرم دل آنکه زین جهان زود برفت\nو آسوده کسی که خود نیامد به جهان",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9721,
+    "text": "رفتم که در این منزل بیداد بدن\nدر دست نخواهد بر خنگ از باد بدن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9722,
+    "text": "آن را باید به مرگ من شاد بدن\nکز دست اجل تواند آزاد بدن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9723,
+    "text": "رندی دیدم نشسته بر خنگ زمین\nنه کفر و نه اسلام و نه دنیا و نه دین",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9724,
+    "text": "نه حق نه حقیقت نه شریعت نه یقین\nاندر دو جهان کرا بود زهره این",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9725,
+    "text": "قانع به یک استخوان چو کرکس بودن\nبه ز آن که طفیل خوان ناکس بودن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9726,
+    "text": "با نان جوین خویش حقا که به است\nکالوده و پالوده هر خس بودن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9727,
+    "text": "قومی متفکرند اندر ره دین\nقومی به گمان فتاده در راه یقین",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9728,
+    "text": "میترسم از آن که بانگ آید روزی\nکای بیخبران راه نه آنست و نه این",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9729,
+    "text": "گاویست در آسمان و نامش پروین\nیک گاو دگر نهفته در زیر زمین",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9730,
+    "text": "چشم خردت باز کن از روی یقین\nزیر و زبر دو گاو مشتی خر بین",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9731,
+    "text": "گر بر فلکم دست بدی چون یزدان\nبرداشتمی من این فلک را ز میان",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9732,
+    "text": "از نو فلکی دگر چنان ساختمی\nکازاده بکام دل رسیدی آسان",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9733,
+    "text": "مشنو سخن از زمانه ساز آمدگان\nمی خواه مروق به طراز آمدگان",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9734,
+    "text": "رفتند یکان یکان فراز آمدگان\nکس می ندهد نشان ز بازآمدگان",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9735,
+    "text": "می خوردن و گرد نیکوان گردیدن\nبه زانکه بزرق زاهدی ورزیدن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9736,
+    "text": "گر عاشق و مست دوزخی خواهد بود\nپس روی بهشت کس نخواهد دیدن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9737,
+    "text": "نتوان دل شاد را به غم فرسودن\nوقت خوش خود بسنگ محنت سودن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9738,
+    "text": "کس غیب چه داند که چه خواهد بودن\nمی باید و معشوق و به کام آسودن",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9739,
+    "text": "آن قصر که با چرخ همیزد پهلو\nبر درگه آن شهان نهادندی رو",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9740,
+    "text": "دیدیم که بر کنگره اش فاخته ای\nبنشسته همی گفت که کوکوکوکو",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9741,
+    "text": "از آمدن و رفتن ما سودی کو\nوز تار امید عمر ما پودی کو",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9742,
+    "text": "چندین سروپای نازنینان جهان\nمی سوزد و خاک می شود دودی کو",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9743,
+    "text": "از تن چو برفت جان پاک من و تو\nخشتی دو نهند بر مغاک من و تو",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9744,
+    "text": "و آنگاه برای خشت گور دگران\nدر کالبدی کشند خاک من و تو",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9745,
+    "text": "می خور که فلک بهر هلاک من و تو\nقصدی دارد بجان پاک من و تو",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9746,
+    "text": "در سبزه نشین و می روشن میخور\nکاین سبزه بسی دمد ز خاک من و تو",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9747,
+    "text": "از هر چه بجر می است کوتاهی به\nمی هم ز کف بتان خرگاهی به",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9748,
+    "text": "مستی و قلندری و گمراهی به\nیک جرعه می ز ماه تا ماهی به",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9749,
+    "text": "بنگر ز صبا دامن گل چاک شده\nبلبل ز جمال گل طربناک شده",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9750,
+    "text": "در سایه گل نشین که بسیار این گل\nدر خاک فرو ریزد و ما خاک شده",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9751,
+    "text": "تا کی غم آن خورم که دارم یا نه\nوین عمر به خوشدلی گذارم یا نه",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9752,
+    "text": "پرکن قدح باده که معلومم نیست\nکاین دم که فرو برم برآرم یا نه",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9753,
+    "text": "یک جرعه می کهن ز ملکی نو به\nوز هرچه نه می طریق بیرون شو به",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9754,
+    "text": "در دست به از تخت فریدون صد بار\nخشت سر خم ز ملک کیخسرو به",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9755,
+    "text": "آن مایه ز دنیا که خوری یا پوشی\nمعذوری اگر در طلبش میکوشی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9756,
+    "text": "باقی همه رایگان نیرزد هشدار\nتا عمر گرانبها بدان نفروشی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9757,
+    "text": "از آمدن بهار و از رفتن دی\nاوراق وجود ما همی گردد طی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9758,
+    "text": "می خور! مخور اندوه که فرمود حکیم\nغمهای جهان چو زهر و تریاقش می",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9759,
+    "text": "از کوزه گری کوزه خریدم باری\nآن کوزه سخن گفت ز هر اسراری",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9760,
+    "text": "شاهی بودم که جام زرینم بود\nاکنون شده ام کوزه هر خماری",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9761,
+    "text": "ای آنکه نتیجهٔ چهار و هفتی\nوز هفت و چهار دایم اندر تفتی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9762,
+    "text": "می خور که هزار بار بیشت گفتم\nباز آمدنت نیست چو رفتی رفتی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9763,
+    "text": "ایدل تو به اسرار معما نرسی\nدر نکته زیرکان دانا نرسی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9764,
+    "text": "اینجا به می لعل بهشتی می ساز\nکانجا که بهشت است رسی یا نرسی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9765,
+    "text": "ای دوست حقیقت شنواز من سخنی\nبا باده لعل باش و با سیم تنی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9766,
+    "text": "کانکس که جهان کرد فراغت دارد\nاز سبلت چون تویی و ریش چو منی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9767,
+    "text": "ای کاش که جای آرمیدن بودی\nیا این ره دور را رسیدن بودی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9768,
+    "text": "کاش از پی صد هزار سال از دل خاک\nچون سبزه امید بر دمیدن بودی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9769,
+    "text": "بر سنگ زدم دوش سبوی کاشی\nسرمست بدم که کردم این عیاشی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9770,
+    "text": "با من به زبان حال می گفت سبو\nمن چون تو بدم تو نیز چون من باشی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9771,
+    "text": "بر شاخ امید اگر بری یافتمی\nهم رشته خویش را سری یافتمی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9772,
+    "text": "تا چند ز تنگنای زندان وجود\nای کاش سوی عدم دری یافتمی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9773,
+    "text": "بر گیر پیاله و سبو ای دلجوی\nفارغ بنشین بکشتزار و لب جوی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9774,
+    "text": "بس شخص عزیز را که چرخ بدخوی\nصد بار پیاله کرد و صد بار سبوی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9775,
+    "text": "پیری دیدم به خانهٔ خماری\nگفتم نکنی ز رفتگان اخباری",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9776,
+    "text": "گفتا می خور که همچو ما بسیاری\nرفتند و خبر باز نیامد باری",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9777,
+    "text": "تا چند حدیث پنج و چار ای ساقی\nمشکل چه یکی چه صد هزار ای ساقی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9778,
+    "text": "خاکیم همه چنگ بساز ای ساقی\nبادیم همه باده بیار ای ساقی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9779,
+    "text": "چندان که نگاه می کنم هر سویی\nدر باغ روان است ز کوثر جویی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9780,
+    "text": "صحرا چو بهشت است ز کوثر کم گوی\nبنشین به بهشت با بهشتی رویی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9781,
+    "text": "خوش باش که پخته اند سودای تو دی\nفارغ شده اند از تمنای تو دی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9782,
+    "text": "قصه چه کنم که به تقاضای تو دی\nدادند قرار کار فردای تو دی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9783,
+    "text": "در کارگه کوزه گری کردم رای\nدر پایه چرخ دیدم استاد بپای",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9784,
+    "text": "میکرد دلیر کوزه را دسته و سر\nاز کله پادشاه و از دست گدای",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9785,
+    "text": "در گوش دلم گفت فلک پنهانی\nحکمی که قضا بود ز من میدانی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9786,
+    "text": "در گردش خویش اگر مرا دست بدی\nخود را برهاندمی ز سرگردانی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9787,
+    "text": "زان کوزهٔ می که نیست در وی ضرری\nپر کن قدحی بخور بمن ده دگری",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9788,
+    "text": "زان پیشتر ای صنم که در رهگذری\nخاک من و تو کوزه کند کوزه گری",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9789,
+    "text": "گر آمدنم بخود بدی نامدمی\nور نیز شدن بمن بدی کی شدمی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9790,
+    "text": "به زان نبدی که اندر این دیر خراب\nنه آمدمی نه شدمی نه بدمی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9791,
+    "text": "گر دست دهد ز مغز گندم نانی\nوز می دو منی ز گوسفندی رانی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9792,
+    "text": "با لاله رخی و گوشه بستانی\nعیشی بود آن نه حد هر سلطانی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9793,
+    "text": "گر کار فلک به عدل سنجیده بدی\nاحوال فلک جمله پسندیده بدی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9794,
+    "text": "ور عدل بدی بکارها در گردون\nکی خاطر اهل فضل رنجیده بدی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9795,
+    "text": "هان کوزه گرا بپای اگر هشیاری\nتا چند کنی بر گل مردم خواری",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9796,
+    "text": "انگشت فریدون و کف کیخسرو\nبر چرخ نهاده ای چه می پنداری",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9797,
+    "text": "هنگام صبوح ای صنم فرخ پی\nبرساز ترانه ای و پیش آور می",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9798,
+    "text": "کافکند بخاک صد هزاران جم و کی\nاین آمدن تیرمه و رفتن دی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9799,
+    "text": "تهران، ۴ مهر – ۱۳۱۳\nتهران، ۴ مهر – ۱۳۱۳",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9800,
+    "text": "هرچند که رنگ و روی زیباست مرا،\nچون لاله رخ و چو سَرْو بالاست مرا،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9801,
+    "text": "معلوم نشد که در طَرَبخانهٔ خاک\nنقّاشِ ازل بهرِ چه آراست مرا؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9802,
+    "text": "آورد به اِضطرارم اوّل به وجود،\nجز حیرتم از حیات چیزی نفزود،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9803,
+    "text": "رفتیم به اِکراه و ندانیم چه بود\nزین آمدن و بودن و رفتن مقصود!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9804,
+    "text": "از آمدنم نبود گردون را سود،\nوز رفتن من جاه و جلالش نفزود؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9805,
+    "text": "وز هیچ کسی نیز دو گوشم نشنود،\nکاین آمدن و رفتنم از بهر چه بود!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9806,
+    "text": "ای دل تو به ادراکِ معمّا نرسی،\nدر نکتهٔ زیرکانِ دانا نرسی؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9807,
+    "text": "اینجا ز می و جام بهشتی می ساز،\nکانجا که بهشت است رسی یا نرسی",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9808,
+    "text": "دل سِرّ ِ حیات اگر کَماهی دانست،\nدر مرگ هم اسرار الهی دانست؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9809,
+    "text": "امروز که با خودی، ندانستی هیچ،\nفردا که ز خود رَوی چه خواهی دانست؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9810,
+    "text": "* تا چند زنم به روی دریاها خشت،\nبیزار شدم ز بت پرستان و کُنِشْت؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9811,
+    "text": "خیام که گفت دوزخی خواهد بود؟\nکه رفت به دوزخ و که آمد ز بهشت؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9812,
+    "text": "اسرار اَزَل را نه تو دانی و نه من،\nوین حرفِ معمّا نه تو خوانی و نه من؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9813,
+    "text": "هست از پس پرده گفت وگوی من و تو،\nچون پرده برافتد، نه تو مانی و نه من.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9814,
+    "text": "این بحرِ وجود آمده بیرون ز نهفت،\nکس نیست که این گوهرِ تحقیق بِسُفْت؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9815,
+    "text": "هرکس سخنی از سَرِ سودا گفته است،\nزان روی که هست، کس نمی داند گفت.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9816,
+    "text": "اَجرام که ساکنان این ایوان اند،\nاسبابِ تَرَدُّدِ خردمندان اند،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9817,
+    "text": "هان تا سرِ رشتهٔ خِرَد گُم نکنی،\nکانان که مُدَبّرند سرگردان اند!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9818,
+    "text": "دوری که در [او] آمدن و رفتنِ ماست،\nاو را نه نهایت، نه بدایت پیداست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9819,
+    "text": "کس می نزند دمی درین معنی راست،\nکاین آمدن از کجا و رفتن به کجاست!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9820,
+    "text": "دارنده چو ترکیبِ طِبایع آراست،\nاز بهرِ چه اوفْکَنْدَش اندر کم وکاست؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9821,
+    "text": "گر نیک آمد، شکستن از بهرِ چه بود؟\nور نیک نیامد این صُوَر، عیب کراست؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9822,
+    "text": "آنان که محیطِ فضل و آداب شدند،\nدر جمعِ کمال شمعِ اَصحاب شدند،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9823,
+    "text": "رَه زین شبِ تاریک نبردند به روز،\nگفتند فسانه ای و در خواب شدند.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9824,
+    "text": "* آنان که ز پیش رفته اند ای ساقی،\nدر خاکِ غرور خفته اند ای ساقی،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9825,
+    "text": "رو باده خور و حقیقت از من بشنو:\nباد است هر آن چه گفته اند ای ساقی.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9826,
+    "text": "* آن بیخبران که دُرّ ِ معنی سُفتند،\nدر چرخ به انواعْ سخن ها گفتند؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9827,
+    "text": "آگه چو نگشتند بر اَسرارِ جهان،\nاول زَنَخی زدند و آخر خفتند!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9828,
+    "text": "گاوی است بر آسمان قَرینِ پروین،\nگاوی است دگر نهفته در زیر زمین؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9829,
+    "text": "گر بینایی، چشمِ حقیقت بگشا:\nزیر و زَبَرِ دو گاو مشتی خر بین.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9830,
+    "text": "امروز که نوبت جوانی من است،\nمی نوشم از آن که کامرانی من است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9831,
+    "text": "عیبم مکنید. گرچه تلخ است خوش است،\nتلخ است، از آن که زندگانی من است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9832,
+    "text": "گر آمدنم به من بُدی، نامَدَمی.\nور نیز شدن به من بدی، کی شدمی؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9833,
+    "text": "بِهْ زان نَبُدی که اندرین دیْرِ خراب،\nنه آمدمی، نه شدمی، نه بُدَمی.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9834,
+    "text": "از آمدن و رفتنِ ما سودی کو؟\nوز تارِ وجودِ عمرِ ما پودی کو؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9835,
+    "text": "در چَنْبَرِ چرخ جان چندین پاکان،\nمی سوزد و خاک می شود، دودی کو؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9836,
+    "text": "افسوس که بیفایده فرسوده شدیم،\nوَز داسِ سپهرِ سرنگون سوده شدیم؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9837,
+    "text": "دردا و ندامتا که تا چشم زدیم،\nنابوده به کامِ خویش، نابوده شدیم!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9838,
+    "text": "* با یار چو آرمیده باشی همه عمر،\nلذاتِ جهان چشیده باشی همه عمر،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9839,
+    "text": "هم آخِرِ کار رحلتت خواهد بود،\nخوابی باشد که دیده باشی همه عمر.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9840,
+    "text": "اکنون که ز خوشدلی به جز نام نمانْد،\nیک همدم پخته جز میِ خام نماند؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9841,
+    "text": "دستِ طَرَب از ساغرِ می بازمگیر\nامروز که در دست به جز جام نماند!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9842,
+    "text": "ای کاش که جای آرمیدن بودی،\nیا این رَهِ دور را رسیدن بودی؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9843,
+    "text": "کاش از پیِ صد هزار سال از دل خاک،\nچون سبزه امید بر دمیدن بودی!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9844,
+    "text": "چون حاصلِ آدمی درین جایِ دودَر،\nجز دردِ دل و دادنِ جان نیست دگر؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9845,
+    "text": "خرّم دلِ آن که یک نفس زنده نبود،\nو آسوده کسی که خود نزاد از مادر!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9846,
+    "text": "* آن کس که زمین و چرخِ اَفلاک نهاد،\nبس داغ که او بر دلِ غمناک نهاد؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9847,
+    "text": "بسیار لبِ چو لعل و زُلفینِ چو مشک\nدر طَبلِ زمین و حُقّهِٔ خاک نهاد!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9848,
+    "text": "گر بر فَلَکَم دست بُدی چون یزدان،\nبرداشتمی من این فلک را ز میان؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9849,
+    "text": "از نو فلک دگر چُنان ساختمی،\nکازاده به کامِ دل رسیدی آسان.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9850,
+    "text": "بر لوحْ نشانِ بودنی ها بوده است،\nپیوسته قلم ز نیک و بد فرسوده است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9851,
+    "text": "در روز ازل هر آن چه بایست بداد،\nغم خوردن و کوشیدنِ ما بیهوده است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9852,
+    "text": "چون روزی و عمر بیش وکم نتوان کرد،\nخود را به کم و بیش دُژَم نتوان کرد؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9853,
+    "text": "کار من و تو چنان که رأی من و تو ست\nاز موم به دست خویش هم نتوان کرد.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9854,
+    "text": "افلاک که جز غم نفزایند دگر؛\nنَنْهَند به جا تا نربایند دگر؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9855,
+    "text": "نا آمدگان اگر بدانند که ما\nاز دَهْر چه می کشیم، نایند دگر.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9856,
+    "text": "ای آن که نتیجهٔ چهار و هفتی،\nوز هفت و چهار دایم اندر تَفْتی،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9857,
+    "text": "می خور که هزار باره بیشت گفتم:\nباز آمدنت نیست، چو رفتی رفتی.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9858,
+    "text": "* تا خاکِ مرا به قالب آمیخته اند،\nبس فتنه که از خاک برانگیخته اند؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9859,
+    "text": "من بهتر ازین نمی توانم بودن\nکز بوته مرا چنین برون ریخته اند.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9860,
+    "text": "* تا کی ز چراغِ مسجد و دودِ کُنِشْت؟\nتا کی ز زیانِ دوزخ و سودِ بهشت؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9861,
+    "text": "رو بر سر لوح بین که استادِ قضا\nاندر ازل آن چه بودنی بود، نوشت.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9862,
+    "text": "* ای دل چو حقیقتِ جهان هست مَجاز،\nچندین چه بَری خواری ازین رنجِ دراز!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9863,
+    "text": "تن را به قضا سپار و با درد بساز،\nکاین رفته قلم زِ بهرِ تو ناید باز.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9864,
+    "text": "در گوشِ دلم گفت فلک پنهانی:\nحُکمی که قضا بُوَد ز من می دانی؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9865,
+    "text": "در گردشِ خود اگر مرا دست بُدی،\nخود را برهاندمی ز سر گردانی.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9866,
+    "text": "نیکی و بدی که در نهادِ بشر است،\nشادی و غمی که در قضا و قدر است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9867,
+    "text": "با چرخ مکن حواله کاندر رَهِ عقل،\nچرخ از تو هزار بار بیچاره تر است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9868,
+    "text": "افسوس که نامهٔ جوانی طی شد،\nوان تازه بهار زندگانی دی شد؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9869,
+    "text": "حالی که ورا نام جوانی گفتند،\nمعلوم نشد که او کیْ آمد، کیْ شد!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9870,
+    "text": "افسوس که سرمایه ز کَف بیرون شد،\nدر پایِ اَجَل بسی جگرها خون شد!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9871,
+    "text": "کس نامد از آن جهان که پرسم از وی:\nکاحوالِ مسافرانِ دنیا چون شد.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9872,
+    "text": "یک چند به کودکی به استاد شدیم؛\nیک چند ز استادی خود شاد شدیم؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9873,
+    "text": "پایان سخن شنو که مارا چه رسید:\nچو آب برآمدیم و چون باد شدیم!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9874,
+    "text": "یارانِ موافق همه از دست شدند،\nدر پای اجل یکان یکان پَست شدند،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9875,
+    "text": "بودیم به یک شراب در مجلسِ عمر،\nیک دَوْر ز ما پیشترک مست شدند!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9876,
+    "text": "ای چرخِ فلک خرابی از کینهٔ توست،\nبیداد گری پیشهٔ دیرینهٔ توست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9877,
+    "text": "وی خاک اگر سینهٔ تو بشکافند،\nبس گوهر قیمتی که در سینهٔ توست.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9878,
+    "text": "چون چرخ به کام یک خردمند نگشت،\nخواهی تو فلک هفت شِمُر، خواهی هشت،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9879,
+    "text": "چون باید مُرد و آرزوها همه هِشْت،\nچه مور خورد به گور و چه گرگ به دشت.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9880,
+    "text": "یک قطرهٔ آب بود و با دریا شد،\nیک ذرّهٔ خاک و با زمین یکتا شد،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9881,
+    "text": "آمد شدن تو اندرین عالم چیست؟\nآمد مگسی پدید و ناپیدا شد.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9882,
+    "text": "* می پرسیدی که چیست این نقشِ مجاز،\nگر برگویم حقیقتش هست دراز،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9883,
+    "text": "نقشی است پدید آمده از دریایی،\nو آنگاه شده به قَعْرِ آن دریا باز.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9884,
+    "text": "جامی است که عقل آفرین می زندش،\nصد بوسه زِ مِهْر بر جَبین می زندش؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9885,
+    "text": "این کوزه گر دَهْر چنین جامِ لطیف\nمی سازد و باز بر زمین می زندش!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9886,
+    "text": "اجزای پیاله ای که درهم پیوست،\nبشکستنِ آن روا نمی دارد مست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9887,
+    "text": "چندین سر و ساقِ نازنین و کفِ دست،\nاز مِهرِ که پیوست و به کینِ که شکست؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9888,
+    "text": "عالَم اگر ازبهرِ تو می آرایند،\nمَگْرای بدان که عاقلان نگرایند؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9889,
+    "text": "بسیار چو تو روند و بسیار آیند.\nبربای نصیبِ خویش کِتْ بربایند.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9890,
+    "text": "از جملهٔ رفتگانِ این راهِ دراز،\nبازآمده ای کو که به ما گوید راز؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9891,
+    "text": "هان بر سر این دو راهه از روی نیاز،\nچیزی نگذاری که نمی آیی باز!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9892,
+    "text": "می خور که به زیرِ گِل بسی خواهی خفت،\nبی مونس و بی رفیق و بی همدم و جفت؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9893,
+    "text": "زنهار به کس مگو تو این رازِ نهفت:\nهر لاله که پَژْمُرد، نخواهد بِشْکفت.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9894,
+    "text": "* پیری دیدم به خانهٔ خَمّاری،\nگفتم: نکنی ز رفتگان اِخباری؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9895,
+    "text": "گفتا، می خور که همچو ما بسیاری،\nرفتند و کسی بازنیامد باری!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9896,
+    "text": "بسیار بگشتیم به گِرْدِ در و دشت،\nاندر همه آفاق بگشتیم به گشت؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9897,
+    "text": "کس را نشنیدیم که آمد زین راه\nراهی که برفت، راهرو بازنگشت!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9898,
+    "text": "ما لُعْبَتِگانیم و فلک لُعبَت باز،\nاز روی حقیقتی نه از روی مَجاز؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9899,
+    "text": "یک چند درین بساط بازی کردیم،\nرفتیم به صندوقِ عدم یک یک باز!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9900,
+    "text": "ای بس که نباشیم و جهان خواهد بود،\nنی نام زِ ما و نه نشان خواهد بود؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9901,
+    "text": "زین پیش نبودیم و نَبُد هیچ خَلَل،\nزین پس چو نباشیم همان خواهد بود.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9902,
+    "text": "بر مَفْرشِ خاک خفتگان می بینم،\nدر زیر زمین نهفتگان می بینم؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9903,
+    "text": "چندان که به صحرای عدم می نگرم،\nناآمدگان و رفتگان می بینم!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9904,
+    "text": "این کهنه رباط را که عالم نام است\nآرامگَهِ اَبْلَقِ صبح و شام است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9905,
+    "text": "بزمی است که واماندهٔ صد جمشید است،\nگوری است که خوابگاهِ صد بهرام است!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9906,
+    "text": "آن قصر که بهرام درو جام گرفت،\nآهو بچه کرد و روبَهْ آرام گرفت؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9907,
+    "text": "بهرام که گور می گرفتی همه عمر،\nدیدی که چگونه گور بهرام گرفت؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9908,
+    "text": "مرغی دیدم نشسته بر بارهٔ توس،\nدر چنگ گرفته کلّهٔ کیکاوس،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9909,
+    "text": "با کلّه همی گفت که: افسوس، افسوس!\nکو بانک جَرَس ها و کجا نالهٔ کوس؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9910,
+    "text": "آن قصر که بر چرخ همی زد پهلو،\nبر درگهِ او شهان نهادندی رو،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9911,
+    "text": "دیدیم که بر کنگره اش فاخته ای\nبنشسته همی گفت که: «کوکو، کوکو؟»",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9912,
+    "text": "از تن چو برفت جان پاک من و تو،\nخشتی دو نهند بر مَغاکِ من و تو؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9913,
+    "text": "و آنگه زِ برایِ خشتِ گورِ دگران،\nدر کالبدی کشند خاکِ من و تو.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9914,
+    "text": "* هر ذره که بر روی زمینی بوده است،\nخورشید رُخی، زُهره جَبینی بوده است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9915,
+    "text": "گَرْد از رخِ آستین به آزَرْم فشان،\nکان هم رخِ خوب نازنینی بوده است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9916,
+    "text": "ای پیرِ خردمند پِگَهْ تر برخیز،\nوان کودکِ خاک بیز را بنگر تیز،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9917,
+    "text": "پندش ده و گو که، نرم نرمک می بیز،\nمغزِ سرِ کیقباد و چشمِ پرویز!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9918,
+    "text": "بنگر ز صبا دامن گل چاک شده،\nبلبل ز جمال گُل طَرَبناک شده؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9919,
+    "text": "در سایهٔ گل نشین که بسیار این گل،\nاز خاک برآمده است و در خاک شده!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9920,
+    "text": "ابر آمد و زار بر سرِ سبزه گریست،\nبی بادهٔ گُلرنگ نمی شاید زیست؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9921,
+    "text": "این سبزه که امروز تماشاگه ماست،\nتا سبزهٔ خاک ما تماشاگه کیست!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9922,
+    "text": "چون ابر به نوروز رخِ لاله بشست،\nبر خیز و به جامِ باده کن عزمِ درست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9923,
+    "text": "کاین سبزه که امروز تماشاگه توست،\nفردا همه از خاک تو برخواهد رُسْت!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9924,
+    "text": "هر سبزه که بر کنار جویی رُسته است،\nگویی ز لبِ فرشته خویی رسته است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9925,
+    "text": "پا بر سر هر سبزه به خواری ننهی،\nکان سبزه ز خاک لاله رویی رسته است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9926,
+    "text": "می خور که فلک بهر هلاک من و تو،\nقصدی دارد به جانِ پاک من و تو؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9927,
+    "text": "در سبزه نشین و میِ روشن می خور؛\nکاین سبزه بسی دمد ز خاک من و تو!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9928,
+    "text": "دیدم به سرِ عمارتی مردی فرد،\nکاو گِل به لگد می زد و خوارش می کرد،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9929,
+    "text": "وان گِل به زبانِ حال با او می گفت:\nساکن، که چو من بسی لگد خواهی خورد!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9930,
+    "text": "بردار پیاله و سبو ای دل جو،\nبرگَرْد به گِردِ سبزه زار و لبِ جو؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9931,
+    "text": "کاین چرخ بسی قَدّ ِ بُتانِ مَهْرو،\nصد بار پیاله کرد و صد بار سبو!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9932,
+    "text": "بر سنگ زدم دوش سبوی کاشی،\nسرمست بدم چو کردم این اوباشی؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9933,
+    "text": "با من به زبانِ حال می گفت سبو:\nمن چون تو بُدَم، تو نیز چون من باشی!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9934,
+    "text": "زان کوزهٔ میْ که نیست در وی ضرری،\nپُر کن قَدَحی بخور، به من دِهْ دگری،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9935,
+    "text": "زان پیشتر ای پسر که دررَهْگُذری،\nخاک من و تو کوزه کند کوزه گری.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9936,
+    "text": "* بر کوزه گری پریر کردم گذری،\nاز خاک همی نمود هر دَم هنری؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9937,
+    "text": "من دیدم اگر ندید هر بی بصری،\nخاک پدرم در کف هر کوزه گری.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9938,
+    "text": "* هان کوزه گرا بپای اگر هشیاری،\nتا چند کنی بر گِل مردم خواری؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9939,
+    "text": "انگشتِ فریدون و کَفِ کیخسرو،\nبرچرخ نهاده ای، چه می پنداری؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9940,
+    "text": "در کارگه کوزه گری کردم رای،\nبر پلهٔ چرخ دیدم استاد به پای،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9941,
+    "text": "می کرد دلیر کوزه را دسته و سر،\nاز کَلّهٔ پادشاه و از دست گدای!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9942,
+    "text": "این کوزه چو من عاشق زاری بوده است،\nدر بندِ سرِ زلفِ نگاری بوده است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9943,
+    "text": "این دسته که بر گردن او می بینی:\nدستی است که بر گردن یاری بوده است!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9944,
+    "text": "در کارگهِ کوزه گری بودم دوش،\nدیدم دو هزار کوزه گویا و خموش؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9945,
+    "text": "هر یک به زبانِ حال با من گفتند:\n«کو کوزه گر و کوزه خر و کوزه فروش؟»",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9946,
+    "text": "گر من ز می مُغانه مستم، هستم،\nگر کافِر و گَبْر و بت پرستم، هستم،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9947,
+    "text": "هر طایفه ای به من گمانی دارد،\nمن زانِ خودم، چُنان که هستم هستم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9948,
+    "text": "می خوردن و شاد بودن آیین من است،\nفارغ بودن ز کفر و دین؛ دین من است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9949,
+    "text": "گفتم به عروسِ دَهْر: کابین تو چیست؟\nگفتا: - دلِ خرّمِ تو کابینِ من است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9950,
+    "text": "من بی می ناب زیستن نتوانم،\nبی باده، کشیدِ بارِ تن نتوانم،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9951,
+    "text": "من بندهٔ آن دَمَم که ساقی گوید:\n«یک جام دگر بگیر» و من نتوانم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9952,
+    "text": "امشب می جامِ یک مَنی خواهم کرد،\nخود را به دو جامِ می غنی خواهم کرد؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9953,
+    "text": "اول سه طلاقِ عقل و دین خواهم داد،\nپس دخترِ رَز را به زنی خواهم کرد.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9954,
+    "text": "* چون مُرده شوم، خاکِ مرا گُم سازید،\nاحوالِ مرا عبرتِ مردم سازید؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9955,
+    "text": "خاک تن من به باده آعشته کنید،\nوَز کالبدم خشتِ سَرِ خُم سازید.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9956,
+    "text": "* چون درگذرم به باده شویید مرا،\nتلقین ز شرابِ ناب گویید مرا،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9957,
+    "text": "خواهید به روز حَشْر یابید مرا؟\nاز خاکِ درِ میکده جویید مرا.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9958,
+    "text": "* چندان بخورم شراب، کاین بوی شراب\nآید ز تُراب، چون روم زیرِ تُراب،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9959,
+    "text": "گر بر سر خاک من رسد مَخموری،\nاز بوی شراب من شود مست و خراب.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9960,
+    "text": "روزی که نهالِ عمر من کنده شود،\nو اجزام ز یک دگر پراکنده شود؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9961,
+    "text": "گر زان که صراحیی کُنند از گِل من،\nحالی که ز باده پُر کنی زنده شود.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9962,
+    "text": "* در پای اجل چو من سرافکنده شوم،\nوز بیخ امید عمر بر کنده شوم،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9963,
+    "text": "زینهار، گِلَم به جز صراحی نکنید،\nباشد که ز بوی می دمی زنده شوم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9964,
+    "text": "* یاران به موافقت چو دیدار کنید،\nباید که زِ دوست یاد بسیار کنید؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9965,
+    "text": "چون بادهٔ خوشگوار نوشید به هم،\nنوبت چو به ما رسد نگونسار کنید.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9966,
+    "text": "* آنان که اسیر عقل و تمییز شدند،\nدر حسرتِ هست ونیست ناچیز شدند؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9967,
+    "text": "رو با خبرا، تو آب انگور گُزین،\nکان بی خبران به غوره مِیْویز شدند!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9968,
+    "text": "* ای صاحب فتوی، ز تو پرکارتریم،\nبا این همه مستی، از تو هشیارتریم؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9969,
+    "text": "تو خونِ کسان خوری و ما خونِ رَزان،\nانصاف بده؛ کدام خونخوارتریم؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9970,
+    "text": "شیخی به زنی فاحشه گفتا: مستی.\nهر لحظه به دام دگری پابستی؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9971,
+    "text": "گفتا؛ شیخا، هر آن چه گویی هستم،\nآیا تو چنان که می نمایی هستی؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9972,
+    "text": "* گویند که دوزخی بُوَد عاشق و مست،\nقولی است خلاف، دل در آن نتوان بست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9973,
+    "text": "گر عاشق و مست دوزخی خواهد بود،\nفردا باشد بهشت همچون کفِ دست!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9974,
+    "text": "گویند: بهشت و حورعین خواهد بود،\nو آن جا می ناب و اَنْگَبین خواهد بود؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9975,
+    "text": "گر ما می و معشوقه گُزیدیم چه باک؟\nآخِر نه به عاقبت همین خواهد بود؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9976,
+    "text": "* گویند: بهشت و حور و کوثر باشد،\nجوی می و شیر و شهد و شکّر باشد؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9977,
+    "text": "پر کن قدح باده و بر دستم نه،\nنقدی ز هزار نسیه بهتر باشد.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 9978,
+    "text": "* گویند بهشتِ عَدْن با حور خوش است،\nمن می گویم که: آب انگور خوش است",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9979,
+    "text": "این نقد بگیر و دست از آن نسیه بدار،\nکاواز دُهُل برادر از دور خوش است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9980,
+    "text": "کس خُلْد و جَحیم را ندیده است ای دل،\nگویی که از آن جهان رسیده است ای دل؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9981,
+    "text": "امّید و هراسِ ما به چیزی است کزان،\nجز نام نشانی نه پدید است ای دل!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9982,
+    "text": "* من هیچ ندانم که مرا آن که سرشت،\nاز اهل بهشت کرد، یا دوزخ زشت؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9983,
+    "text": "جامی و بتی و بَربَطی بر لب کِشت.\nاین هر سه مرا نقد و تو را نسیه بهشت.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9984,
+    "text": "چون نبست مقام ما درین دهر مُقیم،\nپس بی می و معشوق خطایی است عظیم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 9985,
+    "text": "تا کی ز قدیم و مُحْدَث امّیدم و بیم؟\nچون من رفتم، جهان چه مُحْدَث چه قدیم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9986,
+    "text": "چون آمدنم به من نَبُد روز نخست،\nوین رفتنِ بی مراد عَزمی است درست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9987,
+    "text": "برخیز و میان ببند ای ساقی چُسْت،\nکاندوهِ جهان به می فروخواهم شست.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9988,
+    "text": "چون عمر به سر رسد، چه بغداد چه بلخ،\nپیمانه چو پر شود، چه شیرین و چه تلخ؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 9989,
+    "text": "خوش باش که بعد از من و تو ماه بسی،\nاز سَلْخ به غُرّه آید، از غُرّه به سَلْخ!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9990,
+    "text": "* جُز راهِ قَلَندرانِ میخانه مپوی،\nجز باده و جز سِماع و جز یار مجوی؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9991,
+    "text": "بر کَفْ قَدَحِ باده و بر دوشْ سبو،\nمی نوش کن ای نگار و بیهوده مگوی.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9992,
+    "text": "* ساقی غمِ من بلند آوازه شده است،\nسرمستیِ من برون ز اندازه شده است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9993,
+    "text": "با مویِ سپیدْ سرخوشم کز میِ تو؛\nپیرانه سرم بهارِ دل تازه شده است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9994,
+    "text": "* تُنْگی میِ لَعْل خواهم و دیوانی،\nسَدّ ِ رَمَقی باید و نصف نانی،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9995,
+    "text": "وانگه من و تو نشسته در ویرانی،\nخوشتر بُوَد آن ز مُلْکَتِ سلطانی.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9996,
+    "text": "* من ظاهرِ نیستی و هستی دانم،\nمن باطنِ هر فراز و پستی دانم؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 9997,
+    "text": "با این همه از دانشِ خود شَرْمَم باد،\nگر مرتبه ای وَرایِ مستی دانم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 9998,
+    "text": "از من رَمَقی به سعی ساقی مانده است،\nوَزْ صحبتِ خلق، بی وفاقی مانده است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 9999,
+    "text": "از بادهٔ دوشین قَدَحی بیش نماند.\nاز عمر ندانم که چه باقی مانده است!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10000,
+    "text": "ای بیخبران شکلِ مُجَسَّم هیچ است،\nوین طارَمِ نُهْ سپهرِ اَرْقَم هیچ است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10001,
+    "text": "خوش باش که در نشیمنِ کَوْن و فَساد.\nوابستهٔ یک دمیم و آن هم هیچ است!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10002,
+    "text": "دنیا دیدی و هرچه دیدی هیچ است،\nو آن نیز که گفتی و شنیدی هیچ است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10003,
+    "text": "سرتاسرِ آفاق دویدی هیچ است،\nو آن نیز که در خانه خزیدی هیچ است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10004,
+    "text": "دنیا به مراد رانده گیر، آخِر چه؟\nوین نامهٔ عمر خوانده گیر، آخِر چه؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10005,
+    "text": "گیرم که به کامِ دل بماندی صد سال،\nصد سال دگر بمانده گیر، آخر چه؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10006,
+    "text": "* رندی دیدم نشسته بر خِنْگِ زمین،\nنه کفر و نه اسلام و نه دنیا و نه دین،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10007,
+    "text": "نی حق، نه حقیقت، نه شریعت نه یقین،\nاندر دو جهان کرا بُوَد زَهرهٔ این؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10008,
+    "text": "این چرخِ فلک که ما در او حیرانیم،\nفانوس خیال از او مثالی دانیم:",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10009,
+    "text": "خورشیدْ چراغ دان و عالَم فانوس،\nما چون صُوَریم کاندر او گَردانیم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10010,
+    "text": "چون نیست زِ هرچه هست جُز باد به دست،\nچون هست زِ هرچه هست نُقصان و شکست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 10011,
+    "text": "انگار که هست، هرچه در عالَم نیست،\nپندار که نیست، هرچه در عالَم هست.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10012,
+    "text": "بنگر ز جهان چه طَرْف بربستم؟ هیچ،\nوَز حاصلِ عمر چیست در دستم؟ هیچ،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10013,
+    "text": "شمعِ طَرَبم، ولی چو بنشستم، هیچ،\nمن جامِ جَمَم، ولی چو بشکستم، هیچ.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10014,
+    "text": "از منزلِ کفر تا به دین، یک نفس است،\nوز عالم شک تا به یقین، یک نفس است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10015,
+    "text": "این یک نفسِ عزیز را خوش می دار،\nکَز حاصلِ عمرِ ما همین یک نفس است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10016,
+    "text": "شادی بطلب که حاصلِ عمر دمی است،\nهر ذرّه ز خاکِ کیقبادی و جَمی است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10017,
+    "text": "احوالِ جهان و اصلِ این عمر که هست،\nخوابی و خیالی و فریبی و دمی است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10018,
+    "text": "تا زُهره و مَهْ در آسمان گشته پدید،\nبهتر ز میِ ناب کسی هیچ ندید؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10019,
+    "text": "من در عجبم ز می فروشان، کایشان،\nزین بِهْ که فروشند چه خواهند خرید؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10020,
+    "text": "مهتاب به نور دامن شب بشکافت\nمی نوش، دمی خوشتر از این نتوان یافت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10021,
+    "text": "خوش باش و بیندیش که مهتاب بسی\nاندر سر گور یک به یک خواهد تافت",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 10022,
+    "text": "چون عهده نمی شود کسی فردا را،\nحالی خوش کن تو این دلِ سودا را،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10023,
+    "text": "می نوش به ماهتاب، ای ماه که ماه\nبسیار بگردد و نیابد ما را.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 10024,
+    "text": "این قافلهٔ عمر عجب می گذرد!\nدریاب دمی که با طَرَب می گذرد؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10025,
+    "text": "ساقی، غم فردای حریفان چه خوری.\nپیش آر پیاله را، که شب می گذرد.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10026,
+    "text": "هنگام سپیده دم خروس سحری،\nدانی که چرا همی کند نوحه گری؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10027,
+    "text": "یعنی که: نمودند در آیینهٔ صبح\nکز عمر شبی گذشت و تو بیخبری!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10028,
+    "text": "وقت سحر است، خیز ای مایهٔ ناز،\nنرمک نرمک باده خور و چنگ نواز،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 10029,
+    "text": "کان ها که بجایند نپایند کسی،\nو آن ها که شدند کس نمی آید باز!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10030,
+    "text": "هنگام صبوح ای صنمِ فرخْ پی\nبرساز ترانه ای و پیش آور می؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10031,
+    "text": "کافکند به خاک صد هزاران جَم و کیْ\nاین آمدنِ تیرمه و رفتنِ دی.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 10032,
+    "text": "صبح است، دمی بر می گلرنگ زنیم،\nوین شیشهٔ نام وننگ برسنگ زنیم،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10033,
+    "text": "دست از اَمَلِ درازِ خود باز کشیم،\nدر زلفِ دراز و دامنِ چنگ زنیم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10034,
+    "text": "روزی است خوش و هوا نه گرم است و نه سرد،\nابر از رُخِ گلزار همی شوید گَرْد،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10035,
+    "text": "بلبل به زبانِ پهلوی با گلِ زرد،\nفریاد همی زند گه: می باید خورد!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10036,
+    "text": "فصلِ گُل و طَرْفِ جویْبار و لبِ کِشْت،\nبا یک دو سه تازه دلبری حورسرشت؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 10037,
+    "text": "پیش آر قَدَح که باده نوشانِ صَبوح،\nآسوده ز مسجدند و فارغ ز بهشت.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 10038,
+    "text": "بر چهرهٔ گُل نسیمِ نوروز خوش است،\nدر صَحنِ چمن رویِ دل افروز خوش است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 10039,
+    "text": "از دی که گذشت هرچه گویی خوش نیست؛\nخوش باش و ز دی مگو، که امروز خوش است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10040,
+    "text": "ساقی، گل و سبزه بس طربناک شده است،\nدریاب که هفتهٔ دگر خاک شده است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10041,
+    "text": "می نوش و گُلی بچین، که تا در نگری\nگل خاک شده است و سبزه خاشاک شده است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10042,
+    "text": "چون لاله به نوروز قدح گیر به دست،\nبا لاله رخی اگر تو را فرصت هست؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10043,
+    "text": "می نوش به خرمی، که این چرخِ کبود\nناگاه تو را چو خاک گرداند پَست.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10044,
+    "text": "* هر گه که بنفشه جامه در رنگ زند،\nدر دامنِ گل بادِ صبا چنگ زند،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 10045,
+    "text": "هشیار کسی بُوَد که، با سیمْبَری\nمی نوشد و جام باده بر سنگ زند.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 10046,
+    "text": "برخیز و مخور غمِ جهانِ گُذران،\nخوش باش و دمی به شادمانی گذران",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10047,
+    "text": "در طَبْعِ جهان اگر وفایی بودی،\nنوبت به تو خود نیامدی از دگران.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10048,
+    "text": "در دایرهِٔ سپهرِ ناپیدا غور،\nمی نوش به خوشدلی که دور است به جور؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10049,
+    "text": "نوبت چو به دوْرِ تو رَسَد آه مکن،\nجامی است که جمله را چشانند به دوْر!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10050,
+    "text": "از درسِ علوم جمله بگریزی بِهْ،\nو اندر سرِ زلفِ دلبر آویزی به،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 10051,
+    "text": "ز آن پیش که روزگار خونت ریزد،\nتو خونِ قِنینه در قدح ریزی به.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10052,
+    "text": "ایّامِ زمانه از کسی دارد ننگ،\nکاو در غمِ ایّام نشیند دلتنگ؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10053,
+    "text": "می خور تو در آبگینه با نالهٔ چنگ،\nز آن پیش که آبگینه آید بر سنگ!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10054,
+    "text": "* از آمدنِ بهار و از رفتنِ دی،\nاوراقِ وجودِ ما همی گردد طی؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10055,
+    "text": "می خور، مخور اندوه، که گفته است حکیم:\nغم های جهان چو زَهر و تِریاقش می.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10056,
+    "text": "زان پیش که نامِ تو ز عالَم برود\nمی خور، که چو می به دل رسد غم برود؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10057,
+    "text": "بگشای سرِ زلفِ بُتی بند ز بند،\nزان پیش که بند بندت از هم برود!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10058,
+    "text": "* ای دوست بیا تا غمِ فردا نخوریم،\nوین یک دمِ عمر را غنیمت شمریم؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10059,
+    "text": "فردا که ازین دیْر کُهَن درگذریم؛\nبا هفت هزارسالگان سربه سریم.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10060,
+    "text": "* تَن زن چو به زیرِ فَلَکِ بی باکی،\nمی نوش چو در جهانِ آفت ناکی؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10061,
+    "text": "چون اوّل و آخِرت به جز خاکی نیست،\nانگار که بر خاک نه ای در خاکی.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 10062,
+    "text": "* می بر کفِ من نِهْ که دلم تاب است،\nوین عمرِ گریزپای چون سیماب است،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10063,
+    "text": "دریاب که، آتشِ جوانی آب است،\nهُش دار، که بیداری دولت خواب است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10064,
+    "text": "می نوش که عمرِ جاودانی این است،\nخود حاصِلَت از دوْرِ جوانی این است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10065,
+    "text": "هنگامِ گُل و مُل است و یاران سرمست،\nخوش باش دمی، که زندگانی این است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "eshgh",
+    "category_fa": "عشق"
+  },
+  {
+    "id": 10066,
+    "text": "با باده نشین، که مُلْکِ محمود این است،\nوَزْ چنگ شنو، که لحنِ داوود این است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 10067,
+    "text": "از آمده و رفته دگر یاد مکن،\nحالی خوش باش، زان که مقصود این است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10068,
+    "text": "امروز تو را دسترس فردا نیست،\nو اندیشهٔ فردات به جز سودا نیست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10069,
+    "text": "ضایع مکن این دم اَر دلت بیدار است،\nکاین باقیِ عمر را بقا پیدا نیست!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10070,
+    "text": "* دوْرانِ جهان بی می و ساقی هیچ است،\nبی زمزمهٔ نایِ عراقی هیچ است؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10071,
+    "text": "هر چند در احوال جهان می نگرم،\nحاصل همه عشرت است و باقی هیچ است.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10072,
+    "text": "تا کی غمِ آن خورم که دارم یا نه؛\nوین عمر به خوشدلی گذارم یا نه،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10073,
+    "text": "پر کن قدح باده، که معلومم نیست\nکاین دم که فرو برم بر آرم یا نه.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 10074,
+    "text": "تا دست به اتفاق بر هم نزنیم،\nپایی ز نشاط بر سر غم نزنیم،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10075,
+    "text": "خیزیم و دمی زنیم پیش از دمِ صبح،\nکاین صبح بسی دمد که ما دَم نزنیم!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10076,
+    "text": "لب بر لب کوزه بردم از غایت آز،\nتا زو طلبم واسطهٔ عمرِ دراز،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10077,
+    "text": "لب بر لب من نهاد و می گفت به راز:\nمی خور، که بدین جهان نمی آیی باز!",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10078,
+    "text": "خیام، اگر ز باده مستی، خوش باش؛\nبا لاله رخی اگر نشستی، خوش باش؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "tabiat",
+    "category_fa": "طبیعت"
+  },
+  {
+    "id": 10079,
+    "text": "چون عاقبتِ کار جهان نیستی است،\nانگار که نیستی، چو هستی خوش باش.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "marg",
+    "category_fa": "مرگ و هستی"
+  },
+  {
+    "id": 10080,
+    "text": "فردا علم نفاق طی خواهم کرد،\nبا موی سپید قصد می خواهم کرد،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10081,
+    "text": "پیمانهٔ عمر من به هفتاد رسید،\nاین دم نکنم نشاط، کی خواهم کرد؟",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10082,
+    "text": "گردون نِگَری ز قدّ ِ فرسودهٔ ماست،\nجیحون اثری ز اشکِ پالودهٔ ماست،",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "hekmat",
+    "category_fa": "حکمت"
+  },
+  {
+    "id": 10083,
+    "text": "دوزخ شَرَری ز رنجِ بیهودهٔ ماست.\nفردوس دمی زِ وقتِ آسودهٔ ماست.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "erfan",
+    "category_fa": "عرفان"
+  },
+  {
+    "id": 10084,
+    "text": "عمرت تا کی به خود پرستی گذرد،\nیا در پیِ نیستی و هستی گذرد؛",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  },
+  {
+    "id": 10085,
+    "text": "می خور که چُنین عمر که غم در پی اوست\nآن بِهْ که به خواب یا به مستی گذرد.",
+    "author": "عمر خیام",
+    "author_en": "Omar Khayyam",
+    "category": "zendegi",
+    "category_fa": "زندگی"
+  }
+]

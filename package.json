@@ -1,0 +1,13 @@
+{
+  "name": "persian-quotes",
+  "version": "1.0.0",
+  "description": "Random Persian quote client for the persian-quotes dataset (classical poetry, no backend required)",
+  "main": "src/index.js",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["persian", "farsi", "quotes", "poetry", "hafez", "rumi"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/USERNAME/persian-quotes.git"
+  }
+}

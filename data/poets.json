@@ -1,0 +1,268 @@
+[
+  {
+    "slug": "roodaki",
+    "name_en": "Rudaki",
+    "name_fa": "رودکی",
+    "died": 941,
+    "file": "data/all/roodaki.json"
+  },
+  {
+    "slug": "ferdowsi",
+    "name_en": "Ferdowsi",
+    "name_fa": "فردوسی",
+    "died": 1020,
+    "file": "data/all/ferdowsi.json"
+  },
+  {
+    "slug": "onsori",
+    "name_en": "Unsuri",
+    "name_fa": "عنصری بلخی",
+    "died": 1040,
+    "file": "data/all/onsori.json"
+  },
+  {
+    "slug": "manoochehri",
+    "name_en": "Manuchehri",
+    "name_fa": "منوچهری دامغانی",
+    "died": 1040,
+    "file": "data/all/manoochehri.json"
+  },
+  {
+    "slug": "asadi",
+    "name_en": "Asadi Tusi",
+    "name_fa": "اسدی توسی",
+    "died": 1073,
+    "file": "data/all/asadi.json"
+  },
+  {
+    "slug": "abusaeed",
+    "name_en": "Abu Said Abul Kheayr",
+    "name_fa": "ابوسعید ابوالخیر",
+    "died": 1049,
+    "file": "data/all/abusaeed.json"
+  },
+  {
+    "slug": "naserkhosro",
+    "name_en": "Nasir Khusraw",
+    "name_fa": "ناصر خسرو",
+    "died": 1088,
+    "file": "data/all/naserkhosro.json"
+  },
+  {
+    "slug": "moezi",
+    "name_en": "Amir Muizzi",
+    "name_fa": "امیرمعزی",
+    "died": 1127,
+    "file": "data/all/moezi.json"
+  },
+  {
+    "slug": "khayyam",
+    "name_en": "Omar Khayyam",
+    "name_fa": "عمر خیام",
+    "died": 1131,
+    "file": "data/all/khayyam.json"
+  },
+  {
+    "slug": "sanaee",
+    "name_en": "Sanai",
+    "name_fa": "سنایی غزنوی",
+    "died": 1131,
+    "file": "data/all/sanaee.json"
+  },
+  {
+    "slug": "gilani",
+    "name_en": "Abdul Qadir Gilani",
+    "name_fa": "عبدالقادر گیلانی",
+    "died": 1166,
+    "file": "data/all/gilani.json"
+  },
+  {
+    "slug": "khaghani",
+    "name_en": "Khaqani",
+    "name_fa": "خاقانی",
+    "died": 1199,
+    "file": "data/all/khaghani.json"
+  },
+  {
+    "slug": "zahir",
+    "name_en": "Zahir ad Din Faryabi",
+    "name_fa": "ظهیرالدین فاریابی",
+    "died": 1201,
+    "file": "data/all/zahir.json"
+  },
+  {
+    "slug": "attar",
+    "name_en": "Attar of Nishapur",
+    "name_fa": "عطار نیشابوری",
+    "died": 1221,
+    "file": "data/all/attar.json"
+  },
+  {
+    "slug": "kamal",
+    "name_en": "Kamal od-Din Esmail",
+    "name_fa": "کمال الدین اسماعیل",
+    "died": 1237,
+    "file": "data/all/kamal.json"
+  },
+  {
+    "slug": "babaafzal",
+    "name_en": "Afdal al-Din Kashani",
+    "name_fa": "افضل الدین کاشانی",
+    "died": 1266,
+    "file": "data/all/babaafzal.json"
+  },
+  {
+    "slug": "saadi",
+    "name_en": "Saadi Shirazi",
+    "name_fa": "سعدی شیرازی",
+    "died": 1292,
+    "file": "data/all/saadi.json"
+  },
+  {
+    "slug": "rumi",
+    "name_en": "Rumi",
+    "name_fa": "مولانا",
+    "died": 1273,
+    "file": "data/all/rumi.json"
+  },
+  {
+    "slug": "eraghi",
+    "name_en": "Fakhr al Din Iraqi",
+    "name_fa": "فخرالدین عراقی",
+    "died": 1289,
+    "file": "data/all/eraghi.json"
+  },
+  {
+    "slug": "salman",
+    "name_en": "Masoud Sad Salman",
+    "name_fa": "مسعود سعد سلمان",
+    "died": 1121,
+    "file": "data/all/salman.json"
+  },
+  {
+    "slug": "khosrow",
+    "name_en": "Amir Khusrow",
+    "name_fa": "امیر خسرو",
+    "died": 1325,
+    "file": "data/all/khosrow.json"
+  },
+  {
+    "slug": "shabestari",
+    "name_en": "Mahmoud Shabestari",
+    "name_fa": "محمود شبستری",
+    "died": 1320,
+    "file": "data/all/shabestari.json"
+  },
+  {
+    "slug": "seyf",
+    "name_en": "Saif Farghani",
+    "name_fa": "صیف فرغانی",
+    "died": 1348,
+    "file": "data/all/seyf.json"
+  },
+  {
+    "slug": "khajoo",
+    "name_en": "Khwaju Kermani",
+    "name_fa": "خواجوی کرمانی",
+    "died": 1352,
+    "file": "data/all/khajoo.json"
+  },
+  {
+    "slug": "obeyd",
+    "name_en": "Ubayd Zakani",
+    "name_fa": "عبید زاکانی",
+    "died": 1370,
+    "file": "data/all/obeyd.json"
+  },
+  {
+    "slug": "hafez",
+    "name_en": "Hafez",
+    "name_fa": "حافظ شیرازی",
+    "died": 1390,
+    "file": "data/all/hafez.json"
+  },
+  {
+    "slug": "shahnematollah",
+    "name_en": "Shah Nimatullah Wali",
+    "name_fa": "شاه نعمت‌الله ولی",
+    "died": 1431,
+    "file": "data/all/shahnematollah.json"
+  },
+  {
+    "slug": "jami",
+    "name_en": "Jami",
+    "name_fa": "جامی",
+    "died": 1492,
+    "file": "data/all/jami.json"
+  },
+  {
+    "slug": "helali",
+    "name_en": "Badridin Hilali",
+    "name_fa": "بدرالدین هلالی",
+    "died": 1529,
+    "file": "data/all/helali.json"
+  },
+  {
+    "slug": "vahshi",
+    "name_en": "Vahshi Bafqi",
+    "name_fa": "وحشی بافقی",
+    "died": 1583,
+    "file": "data/all/vahshi.json"
+  },
+  {
+    "slug": "orfi",
+    "name_en": "Orfi Shirazi",
+    "name_fa": "عرفی شیرازی",
+    "died": 1591,
+    "file": "data/all/orfi.json"
+  },
+  {
+    "slug": "bahaee",
+    "name_en": "Bahaidin Amili",
+    "name_fa": "شیخ بهایی",
+    "died": 1621,
+    "file": "data/all/bahaee.json"
+  },
+  {
+    "slug": "feyz",
+    "name_en": "Feyz Kashani",
+    "name_fa": "فیض کاشانی",
+    "died": 1680,
+    "file": "data/all/feyz.json"
+  },
+  {
+    "slug": "saeb",
+    "name_en": "Saib Tabrizi",
+    "name_fa": "صائب تبریزی",
+    "died": 1676,
+    "file": "data/all/saeb.json"
+  },
+  {
+    "slug": "hatef",
+    "name_en": "Hatef",
+    "name_fa": "هاتف اصفهانی",
+    "died": 1783,
+    "file": "data/all/hatef.json"
+  },
+  {
+    "slug": "bidel",
+    "name_en": "Abdul Qadir Bedil",
+    "name_fa": "بیدل دهلوی",
+    "died": 1720,
+    "file": "data/all/bidel.json"
+  },
+  {
+    "slug": "nezari",
+    "name_en": "Nizari Quhistani",
+    "name_fa": "نزاری قهستانی",
+    "died": 1320,
+    "file": "data/all/nezari.json"
+  },
+  {
+    "slug": "anvari",
+    "name_en": "Awhad ad Din Anvari",
+    "name_fa": "اوحد الدین انوری",
+    "died": 1189,
+    "file": "data/all/anvari.json"
+  }
+]
