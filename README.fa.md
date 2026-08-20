@@ -29,7 +29,7 @@
 - بیدل دهلوی
 - و شاعران کلاسیک دیگر
 
-فهرست کامل شاعران در [`data/poets.json`](data/poets.json) قرار دارد. fileciteturn6file0
+فهرست کامل شاعران در [`data/poets.json`](data/poets.json) قرار دارد.
 
 ## 🗂 ساختار داده
 
@@ -78,7 +78,7 @@ const quote = await getRandomQuoteByPoet('aliaslany', 'hafez');
 const poets = await getPoets('aliaslany');
 ```
 
-کلاینت فعلی داده‌ها را مستقیماً از CDN دریافت می‌کند و به backend نیاز ندارد. fileciteturn3file0
+کلاینت فعلی داده‌ها را مستقیماً از CDN دریافت می‌کند و به backend نیاز ندارد.
 
 ## 🏷 دسته‌بندی‌ها
 
@@ -91,15 +91,11 @@ const poets = await getPoets('aliaslany');
 - مرگ و هستی
 - طبیعت
 
-هر رکورد می‌تواند شناسه، متن، نام شاعر، نام انگلیسی شاعر، دسته و نام فارسی دسته را در خود داشته باشد. fileciteturn7file0
-
 ## 🖥 وب‌سایت و GitHub Pages
 
-وب‌سایت در پوشهٔ `website/` قرار دارد و یک workflow در `.github/workflows/deploy-pages.yml` آن را با GitHub Pages منتشر می‌کند.
+وب‌سایت در پوشهٔ `website/` قرار دارد و workflow موجود در `.github/workflows/deploy-pages.yml` آن را با GitHub Pages منتشر می‌کند.
 
-GitHub توصیه می‌کند برای سایت‌های دارای فرایند استقرار سفارشی از GitHub Actions استفاده شود؛ workflow پروژه نیز از `configure-pages`، `upload-pages-artifact` و `deploy-pages` استفاده می‌کند. citeturn0search1turn0search0
-
-پس از فعال‌سازی **GitHub Pages → Source: GitHub Actions** در تنظیمات مخزن، هر push به `main` باعث اجرای استقرار می‌شود.
+پس از فعال‌سازی **Settings → Pages → Source: GitHub Actions** در تنظیمات مخزن، هر push به `main` باعث اجرای استقرار می‌شود.
 
 ## 🤝 مشارکت
 
@@ -107,7 +103,7 @@ GitHub توصیه می‌کند برای سایت‌های دارای فراین
 
 1. مخزن را Fork کنید.
 2. یک branch برای تغییر خود بسازید.
-3. داده یا کد را اضافه/اصلاح کنید.
+3. داده یا کد را اضافه یا اصلاح کنید.
 4. تغییرات را بررسی و تست کنید.
 5. یک Pull Request ایجاد کنید.
 
