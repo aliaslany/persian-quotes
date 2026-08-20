@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="مجموعه‌ای از اشعار و نقل‌قول‌های فارسی از شاعران کلاسیک ایران">
+  <title>گنجینهٔ سخن | Persian Quotes</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="glow glow-a"></div><div class="glow glow-b"></div>
+  <header class="nav shell">
+    <a class="brand" href="."><span class="brand-mark">❋</span><span>گنجینهٔ سخن</span></a>
+    <nav><a href="#quote">نقل‌قول</a><a href="#poets">شاعران</a><a href="../README.fa.md">درباره پروژه</a><a class="github" href="https://github.com/aliaslany/persian-quotes" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
+  </header>
+
+  <main>
+    <section class="hero shell">
+      <p class="eyebrow">مجموعه‌ای باز از سخن و شعر فارسی</p>
+      <h1>سخنانی برای<br><span>ماندن در خاطر.</span></h1>
+      <p class="intro">گزیده‌ای از آثار شاعران کلاسیک فارسی، با دادهٔ ساخت‌یافته و آزاد برای مطالعه، پژوهش و استفاده در پروژه‌های نرم‌افزاری.</p>
+      <div class="actions"><button id="randomBtn" class="primary">✦ سخن تازه</button><a class="secondary" href="#poets">کشف شاعران</a></div>
+    </section>
+
+    <section id="quote" class="quote-section shell">
+      <div class="quote-card" aria-live="polite">
+        <div class="quote-top"><span id="category">در حال بارگذاری…</span><span id="quoteId"></span></div>
+        <blockquote id="quoteText">در حال دریافت یک سخن زیبا…</blockquote>
+        <div class="quote-bottom"><div><strong id="author">—</strong><span id="authorEn"></span></div><button id="copyBtn" class="icon-btn" title="کپی">کپی</button></div>
+      </div>
+    </section>
+
+    <section id="poets" class="poets shell">
+      <div class="section-heading"><div><p class="eyebrow">آرشیو</p><h2>شاعران</h2></div><span id="poetCount" class="count">—</span></div>
+      <div id="poetGrid" class="poet-grid"></div>
+    </section>
+  </main>
+
+  <footer class="shell footer"><span>ساخته‌شده با داده‌های آزاد پروژهٔ Persian Quotes</span><a href="https://github.com/aliaslany/persian-quotes" target="_blank" rel="noreferrer">مشاهده در GitHub ↗</a></footer>
+  <script src="./app.js"></script>
+</body>
+</html>
