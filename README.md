@@ -1,10 +1,12 @@
-# OpenQuotes
+# OpenQuotes / Persian Quotes
 
-> A multilingual, open-source, structured quote database built from Wikiquote and other public sources.
+> A multilingual, open-source, structured quote database built from Wikiquote and other public sources, with a dedicated Persian poetry dataset and web experience.
 
 ![License](https://img.shields.io/badge/license-CC--BY--SA-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Languages](https://img.shields.io/badge/languages-growing-brightgreen)
+
+**🌐 [Open the Persian Quotes website](https://aliaslany.github.io/persian-quotes/)** · **[فارسی: README.fa.md](README.fa.md)**
 
 ---
 
@@ -30,21 +32,21 @@ The long-term objective is to provide an open dataset that developers, researche
 
 ---
 
-# Why this project exists
+# Persian Quotes Website
 
-Most quote repositories suffer from one or more of these problems:
+The repository now includes a lightweight, RTL Persian website in `website/` and an automated GitHub Pages deployment workflow.
 
-* duplicated author information
-* only one language
-* poor metadata
-* no source verification
-* inconsistent JSON formats
-* impossible to maintain
-* difficult searching
-* no translation workflow
-* no automated updates
+The website provides:
 
-OpenQuotes addresses these issues through a normalized architecture and automated pipelines.
+* Random Persian quote
+* Poet explorer
+* Persian RTL interface
+* Quote copying
+* Category and author metadata
+* Responsive dark interface
+* No backend required
+
+The site reads the dataset through a CDN, so the frontend remains static and suitable for GitHub Pages.
 
 ---
 
@@ -54,12 +56,10 @@ OpenQuotes addresses these issues through a normalized architecture and automate
 
 * Normalize Wikiquote output
 * Build multilingual architecture
-* Build GitHub Pages showcase
+* Maintain a GitHub Pages showcase
 * Add Persian translations
 * Stable JSON schemas
 * Automatic validation
-
----
 
 ## Mid Term
 
@@ -70,482 +70,113 @@ OpenQuotes addresses these issues through a normalized architecture and automate
 * AI-assisted translation
 * GitHub Actions automation
 
----
-
 ## Long Term
 
-Become the largest multilingual quotation database on GitHub.
-
-Support
-
-* 100+ languages
-* millions of translations
-* verified references
-* contributor ecosystem
-* public APIs
-* SDKs
-* educational datasets
-* AI training datasets (respecting licensing)
+Become a major multilingual quotation database supporting many languages, verified references, public APIs, SDKs, educational datasets, and responsibly licensed AI datasets.
 
 ---
 
 # Repository Architecture
 
-```
+```text
 OpenQuotes/
-
 ├── parser/
-│
 ├── data/
-│
 ├── schemas/
-│
 ├── scripts/
-│
 ├── website/
-│
 ├── api/
-│
 ├── docs/
-│
 ├── tests/
-│
 ├── output/
-│
+├── src/
 └── .github/
+```
+
+The Persian dataset is primarily stored under `data/`, with poet metadata in `data/poets.json` and per-poet records under `data/all/`.
+
+---
+
+# JavaScript API
+
+The package exposes helpers for consuming the dataset without a backend:
+
+```js
+import {
+  getRandomQuote,
+  getRandomQuoteByCategory,
+  getRandomQuoteByPoet,
+  getPoets
+} from './src/index.js';
+
+const quote = await getRandomQuote('aliaslany');
+const hafez = await getRandomQuoteByPoet('aliaslany', 'hafez');
+const poets = await getPoets('aliaslany');
 ```
 
 ---
 
 # Data Architecture
 
-The repository follows a normalized model.
-
-No duplicated information.
+The repository follows a normalized model for the broader OpenQuotes project.
 
 ## authors
 
 Stores one record per person.
 
-Contains
-
-* unique id
-* slug
-* Wikidata ID
-* Wikipedia links
-* multilingual names
-* birth/death years
-* nationality
-* image
-* aliases
-
----
-
 ## quotes
 
-Stores quote metadata only.
-
-Contains
-
-* author id
-* source id
-* original language
-* verification state
-* timestamps
-
-The quote text itself is NOT stored here.
-
----
+Stores quote metadata and provenance.
 
 ## translations
 
 Stores one record per quote per language.
 
-Supports
-
-* English
-* Persian
-* Arabic
-* Turkish
-* French
-* German
-* etc.
-
-Metadata
-
-* translator
-* reviewer
-* translation status
-* quality score
-* update history
-
----
-
 ## tags
 
-Topics such as
-
-* Life
-* Science
-* Love
-* Education
-* Leadership
-* Philosophy
-
----
+Topics such as Life, Science, Love, Education, Leadership, and Philosophy.
 
 ## professions
 
-Examples
-
-* Physicist
-* Philosopher
-* Writer
-* Poet
-* Economist
-* Engineer
-* Psychologist
-
----
+Examples include Physicist, Philosopher, Writer, Poet, Economist, Engineer, and Psychologist.
 
 ## sources
 
 Every quote should have traceable provenance whenever possible.
 
-Examples
+---
 
-* Wikiquote
-* Books
-* Interviews
-* Speeches
-* Scientific publications
-* Letters
+# Website Deployment
+
+The website is deployed from `website/` using `.github/workflows/deploy-pages.yml`.
+
+The workflow uses GitHub's Pages Actions and deploys on pushes to `main`. GitHub Pages supports publishing through a custom GitHub Actions workflow. citeturn0search1
+
+After enabling **Settings → Pages → Source: GitHub Actions**, the project is available at:
+
+**https://aliaslany.github.io/persian-quotes/**
 
 ---
 
-# Canonical Storage Format
+# Contribution Workflow
 
-Canonical datasets use JSON Lines (`.jsonl`).
-
-Advantages:
-
-* scalable
-* streamable
-* merge-friendly
-* cleaner Git history
-* efficient processing
-
-Optional export formats:
-
-* JSON
-* CSV
-* SQLite
-* DuckDB
-* Parquet
-
----
-
-# Website
-
-The website serves as the public showcase of the dataset.
-
-Technology
-
-* React
-* Vite
-* TypeScript
-* Tailwind CSS
-* Framer Motion
-
-Main features
-
-* Beautiful landing page
-* Random quote
-* Daily quote
-* Instant search
-* Author pages
-* Category pages
-* Statistics
-* Responsive design
-* Dark mode
-* Language switching
-* Share buttons
-* Copy quote
-* Favorites (local storage)
-
----
-
-# Future Website Features
-
-## Quote Comparison
-
-Display multiple translations side by side.
-
----
-
-## Quote Timeline
-
-View quotes chronologically.
-
----
-
-## Author Explorer
-
-Interactive author profiles.
-
----
-
-## Search
-
-Search by
-
-* text
-* author
-* language
-* profession
-* nationality
-* century
-* category
-
----
-
-## Quote Collections
-
-Examples
-
-* Women in Science
-* Ancient Philosophy
-* Startup Founders
-* Persian Literature
-* Nobel Prize Winners
-
----
-
-# API
-
-Future REST API
-
+```text
+Fork
+↓
+Branch
+↓
+Develop
+↓
+Run Validation
+↓
+Create Pull Request
+↓
+Automatic CI
+↓
+Review
+↓
+Merge
 ```
-GET /quotes/random
-
-GET /quotes/{id}
-
-GET /authors
-
-GET /authors/{slug}
-
-GET /search
-
-GET /languages
-
-GET /tags
-
-GET /daily
-```
-
-Future GraphQL endpoint
-
-```
-/graphql
-```
-
----
-
-# Translation Workflow
-
-```
-Original Quote
-
-↓
-
-Language Detection
-
-↓
-
-Machine Translation
-
-↓
-
-Human Review
-
-↓
-
-Verification
-
-↓
-
-Publication
-```
-
-Translation states
-
-* machine
-* reviewed
-* verified
-
----
-
-# Parser Workflow
-
-```
-Wikiquote Dump
-
-↓
-
-Parser
-
-↓
-
-Raw JSON
-
-↓
-
-Normalizer
-
-↓
-
-Validation
-
-↓
-
-JSONL Dataset
-
-↓
-
-Website Build
-
-↓
-
-GitHub Pages
-```
-
----
-
-# Data Validation Workflow
-
-Every commit validates
-
-* schema
-* duplicate IDs
-* duplicate slugs
-* missing authors
-* orphan translations
-* broken references
-* invalid dates
-* invalid language codes
-
----
-
-# GitHub Actions
-
-## validate.yml
-
-Runs
-
-* JSON schema validation
-* lint
-* tests
-
----
-
-## normalize.yml
-
-Converts parser output into canonical dataset.
-
----
-
-## build-search.yml
-
-Creates optimized search indexes.
-
----
-
-## translate.yml
-
-Processes new untranslated records.
-
----
-
-## deploy-pages.yml
-
-Builds website.
-
-Deploys GitHub Pages.
-
----
-
-## statistics.yml
-
-Calculates
-
-* quote counts
-* author counts
-* translation coverage
-* contributor statistics
-
----
-
-## backup.yml
-
-Creates scheduled snapshots.
-
----
-
-# Search Index
-
-Generate optimized indexes.
-
-Examples
-
-```
-author_index.json
-
-tag_index.json
-
-search_index.json
-
-language_index.json
-```
-
----
-
-# Quality Levels
-
-Each translation receives a quality level.
-
-```
-machine
-
-↓
-
-reviewed
-
-↓
-
-verified
-
-↓
-
-expert
-```
-
----
-
-# Stable IDs
-
-Quotes never use sequential IDs.
-
-Instead
-
-```
-qt_8abf03d7
-```
-
-Advantages
-
-* immutable
-* merge-friendly
-* synchronization-safe
 
 ---
 
@@ -553,55 +184,7 @@ Advantages
 
 The parser code and the dataset may have different licensing requirements.
 
-The project must preserve attribution and comply with the licensing of upstream sources (such as Wikiquote content and MediaWiki licensing). Contributors should ensure that redistributed content retains the required notices and attribution.
-
----
-
-# Contribution Workflow
-
-```
-Fork
-
-↓
-
-Branch
-
-↓
-
-Develop
-
-↓
-
-Run Validation
-
-↓
-
-Create Pull Request
-
-↓
-
-Automatic CI
-
-↓
-
-Review
-
-↓
-
-Merge
-```
-
----
-
-# Coding Standards
-
-* TypeScript preferred
-* Python for ETL scripts
-* JSON Schema for validation
-* Conventional Commits
-* Semantic Versioning
-* Automated formatting
-* Unit tests for parsers and validators
+The project must preserve attribution and comply with the licensing of upstream sources such as Wikiquote and MediaWiki content. Contributors should ensure redistributed content retains required notices and attribution.
 
 ---
 
@@ -614,8 +197,6 @@ Merge
 * Create website foundation
 * GitHub Pages deployment
 
----
-
 ## Phase 2
 
 * Search
@@ -625,8 +206,6 @@ Merge
 * Dark mode
 * Persian translations
 
----
-
 ## Phase 3
 
 * API
@@ -635,8 +214,6 @@ Merge
 * Daily quotes
 * AI-assisted translation
 * Contributor dashboard
-
----
 
 ## Phase 4
 
@@ -657,7 +234,6 @@ Merge
 * Wikidata synchronization
 * Citation verification
 * OCR ingestion for public-domain texts
-* Speech-to-text quote extraction from public-domain recordings where legally permitted
 * Interactive quote maps
 * Historical timelines
 * Reading lists
@@ -666,7 +242,6 @@ Merge
 * Discord bot
 * Slack integration
 * VS Code extension
-* Browser extension
 * Offline dataset releases
 * Monthly data snapshots
 * Community translation portal
@@ -674,8 +249,4 @@ Merge
 
 ---
 
-# Our Mission
-
-OpenQuotes is not just another quote repository.
-
-It is an attempt to build an open, structured, multilingual knowledge base of humanity's most influential quotations—carefully organized, verifiable where possible, and designed to remain useful for decades.
+**Persian documentation:** [README.fa.md](README.fa.md)
