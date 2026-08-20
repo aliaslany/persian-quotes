@@ -150,7 +150,7 @@ Every quote should have traceable provenance whenever possible.
 
 The website is deployed from `website/` using `.github/workflows/deploy-pages.yml`.
 
-The workflow uses GitHub's Pages Actions and deploys on pushes to `main`. GitHub Pages supports publishing through a custom GitHub Actions workflow. citeturn0search1
+The workflow uses GitHub's Pages Actions and deploys on pushes to `main`.
 
 After enabling **Settings → Pages → Source: GitHub Actions**, the project is available at:
 
