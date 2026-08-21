@@ -1,252 +1,135 @@
-# OpenQuotes / Persian Quotes
+# persian-quotes
 
-> A multilingual, open-source, structured quote database built from Wikiquote and other public sources, with a dedicated Persian poetry dataset and web experience.
+A large, categorized dataset of classical Persian poetry — packaged as static
+JSON so any app can fetch a random quote with zero backend, zero API key,
+and zero rate limits.
 
-![License](https://img.shields.io/badge/license-CC--BY--SA-blue)
-![Status](https://img.shields.io/badge/status-active-success)
-![Languages](https://img.shields.io/badge/languages-growing-brightgreen)
+**43,564 quotes** (couplets/beyts) from **38 classical Persian poets**
+(Hafez, Rumi, Saadi, Khayyam, Ferdowsi, Attar, Jami, Rudaki, and more),
+tagged into 6 themes.
 
-**🌐 [Open the Persian Quotes website](https://aliaslany.github.io/persian-quotes/)** · **[فارسی: README.fa.md](README.fa.md)**
+🔗 **Live site & docs:** `https://USERNAME.github.io/persian-quotes/`
 
----
+Every poet included died more than 175 years ago, so the underlying text is
+public domain worldwide. See [LICENSE.md](LICENSE.md) for details and for
+how to extend this dataset with modern (still-copyrighted) poets yourself.
 
-## Vision
+## Fetch a random quote — no server needed
 
-OpenQuotes aims to become the largest structured multilingual quotation database available as open-source.
-
-Unlike traditional quote repositories that simply store text, OpenQuotes treats quotations as structured knowledge.
-
-Every quote is connected to:
-
-* its author
-* verified sources
-* translations
-* professions
-* tags
-* categories
-* historical metadata
-* Wikidata
-* Wikipedia
-
-The long-term objective is to provide an open dataset that developers, researchers, translators, AI systems, educational platforms, and quote applications can build upon.
-
----
-
-# Persian Quotes Website
-
-The repository now includes a lightweight, RTL Persian website in `website/` and an automated GitHub Pages deployment workflow.
-
-The website provides:
-
-* Random Persian quote
-* Poet explorer
-* Persian RTL interface
-* Quote copying
-* Category and author metadata
-* Responsive dark interface
-* No backend required
-
-The site reads the dataset through a CDN, so the frontend remains static and suitable for GitHub Pages.
-
----
-
-# Project Goals
-
-## Short Term
-
-* Normalize Wikiquote output
-* Build multilingual architecture
-* Maintain a GitHub Pages showcase
-* Add Persian translations
-* Stable JSON schemas
-* Automatic validation
-
-## Mid Term
-
-* Search engine
-* REST API
-* GraphQL API
-* Daily quote generator
-* AI-assisted translation
-* GitHub Actions automation
-
-## Long Term
-
-Become a major multilingual quotation database supporting many languages, verified references, public APIs, SDKs, educational datasets, and responsibly licensed AI datasets.
-
----
-
-# Repository Architecture
-
-```text
-OpenQuotes/
-├── parser/
-├── data/
-├── schemas/
-├── scripts/
-├── website/
-├── api/
-├── docs/
-├── tests/
-├── output/
-├── src/
-└── .github/
-```
-
-The Persian dataset is primarily stored under `data/`, with poet metadata in `data/poets.json` and per-poet records under `data/all/`.
-
----
-
-# JavaScript API
-
-The package exposes helpers for consuming the dataset without a backend:
+Because this is just static JSON on GitHub, you can serve it straight from
+jsDelivr's CDN (fast, cached, free) and pick a random entry client-side:
 
 ```js
-import {
-  getRandomQuote,
-  getRandomQuoteByCategory,
-  getRandomQuoteByPoet,
-  getPoets
-} from './src/index.js';
-
-const quote = await getRandomQuote('aliaslany');
-const hafez = await getRandomQuoteByPoet('aliaslany', 'hafez');
-const poets = await getPoets('aliaslany');
+const res = await fetch(
+  "https://cdn.jsdelivr.net/gh/USERNAME/persian-quotes@main/data/quotes.json"
+);
+const quotes = await res.json();
+const quote = quotes[Math.floor(Math.random() * quotes.length)];
+console.log(quote.text, "—", quote.author);
 ```
 
----
+> Replace `USERNAME` with your GitHub username once you push this repo.
+> `raw.githubusercontent.com/USERNAME/persian-quotes/main/data/quotes.json`
+> works the same way (no CDN caching, but always up to date).
 
-# Data Architecture
+Full endpoint reference, curl/Python examples, and a live in-browser demo
+are on the docs site — see `docs/index.html`, published via GitHub Pages.
 
-The repository follows a normalized model for the broader OpenQuotes project.
+## Data layout
 
-## authors
-
-Stores one record per person.
-
-## quotes
-
-Stores quote metadata and provenance.
-
-## translations
-
-Stores one record per quote per language.
-
-## tags
-
-Topics such as Life, Science, Love, Education, Leadership, and Philosophy.
-
-## professions
-
-Examples include Physicist, Philosopher, Writer, Poet, Economist, Engineer, and Psychologist.
-
-## sources
-
-Every quote should have traceable provenance whenever possible.
-
----
-
-# Website Deployment
-
-The website is deployed from `website/` using `.github/workflows/deploy-pages.yml`.
-
-The workflow uses GitHub's Pages Actions and deploys on pushes to `main`.
-
-After enabling **Settings → Pages → Source: GitHub Actions**, the project is available at:
-
-**https://aliaslany.github.io/persian-quotes/**
-
----
-
-# Contribution Workflow
-
-```text
-Fork
-↓
-Branch
-↓
-Develop
-↓
-Run Validation
-↓
-Create Pull Request
-↓
-Automatic CI
-↓
-Review
-↓
-Merge
+```
+data/
+  quotes.json            # all 43,564 quotes (~12MB)
+  featured.json          # 90-quote curated sample, used by the docs site demo
+  poets.json             # metadata for all 38 poets
+  quotes/                # split by theme
+    eshgh.json            عشق      love         (4,313)
+    hekmat.json            حکمت      wisdom       (22,641)
+    zendegi.json           زندگی      life         (2,699)
+    erfan.json              عرفان      mysticism    (9,679)
+    marg.json                مرگ و هستی mortality    (1,053)
+    tabiat.json              طبیعت      nature       (3,179)
+  all/
+    hafez.json, rumi.json, saadi.json, ... # split by poet, one file each
 ```
 
----
+Each quote object looks like:
 
-# Licensing
+```json
+{
+  "id": 20001,
+  "text": "پس هم به دو چشم مست ساقی\nمی آن نظری به چشم اجمل",
+  "author": "فخرالدین عراقی",
+  "author_en": "Fakhr al Din Iraqi",
+  "category": "erfan",
+  "category_fa": "عرفان"
+}
+```
 
-The parser code and the dataset may have different licensing requirements.
+`text` is a full beyt (two mesras joined by `\n`) rather than a single
+half-line, since a lone mesra is usually not a complete thought in
+classical Persian poetry.
 
-The project must preserve attribution and comply with the licensing of upstream sources such as Wikiquote and MediaWiki content. Contributors should ensure redistributed content retains required notices and attribution.
+## Fetch by category or by poet
 
----
+```js
+// only wisdom quotes
+const wisdom = await fetch(
+  "https://cdn.jsdelivr.net/gh/USERNAME/persian-quotes@main/data/quotes/hekmat.json"
+).then(r => r.json());
 
-# Roadmap
+// only Rumi
+const rumi = await fetch(
+  "https://cdn.jsdelivr.net/gh/USERNAME/persian-quotes@main/data/all/rumi.json"
+).then(r => r.json());
+```
 
-## Phase 1
+## JS/TS helper (optional)
 
-* Normalize parser output
-* Define schemas
-* Create website foundation
-* GitHub Pages deployment
+`src/index.js` wraps this into a couple of convenience functions — see
+[src/README.md](src/README.md) if you want to publish it to npm.
 
-## Phase 2
+```js
+import { getRandomQuote, getRandomQuoteByCategory } from "./src/index.js";
 
-* Search
-* Author pages
-* Quote cards
-* Statistics
-* Dark mode
-* Persian translations
+const q = await getRandomQuote("USERNAME");
+const wise = await getRandomQuoteByCategory("USERNAME", "hekmat");
+```
 
-## Phase 3
+## The docs site (GitHub Pages)
 
-* API
-* GraphQL
-* Search indexing
-* Daily quotes
-* AI-assisted translation
-* Contributor dashboard
+`docs/index.html` is a static one-page site: a live random-quote demo up
+top, then a full API reference for developers (endpoints, JS/curl/Python
+snippets, category and poet tables). To publish it:
 
-## Phase 4
+1. Push this repo to GitHub.
+2. Repo Settings → Pages → Deploy from branch → `main` / `/docs`.
+3. Your site is live at `https://USERNAME.github.io/persian-quotes/`.
 
-* Additional languages
-* Mobile application
-* Desktop application
-* Browser extension
-* SDKs
-* Public API service
+## Regenerating / extending the dataset
 
----
+The full pipeline is reproducible — see `scripts/build.py`. It reads a
+plain-text corpus (one line per mesra, two mesras per beyt) and produces
+all the JSON files above.
 
-# Future Ideas
+```bash
+git clone https://github.com/amnghd/Persian_poems_corpus.git
+python3 scripts/build.py \
+  --source Persian_poems_corpus/original \
+  --out data \
+  --cap 1200   # max quotes kept per poet, for balance
+```
 
-* AI semantic search
-* Quote similarity graph
-* Knowledge graph integration
-* Wikidata synchronization
-* Citation verification
-* OCR ingestion for public-domain texts
-* Interactive quote maps
-* Historical timelines
-* Reading lists
-* Educational collections
-* Telegram bot
-* Discord bot
-* Slack integration
-* VS Code extension
-* Offline dataset releases
-* Monthly data snapshots
-* Community translation portal
-* Contributor leaderboard
+To add more poets, add an entry to the `POETS` dict in `scripts/build.py`
+with the source filename, English/Persian name, and death year — and check
+[LICENSE.md](LICENSE.md) first if the poet died less than ~150–175 years ago.
 
----
+Category tagging in `categorize()` is a simple keyword heuristic, not a
+real classifier — patches that improve it are welcome.
 
-**Persian documentation:** [README.fa.md](README.fa.md)
+## Contributing
+
+PRs adding more public-domain poets, fixing OCR/transcription glitches, or
+improving the category heuristic are welcome. Please keep modern
+(post-1900) poets out of `data/` unless you've confirmed the rights
+situation for your target audience — see LICENSE.md.

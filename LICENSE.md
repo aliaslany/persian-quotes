@@ -2,10 +2,10 @@
 
 This repo has two different things in it, licensed differently.
 
-## Code (`scripts/`, `src/`)
+## Code (`scripts/`, `src/`, `docs/`)
 
-MIT License — see below. Do whatever you want with the build script and
-the JS helper.
+MIT License — see below. Do whatever you want with the build script, the
+JS helper, and the docs site.
 
 ## Text data (`data/`)
 
